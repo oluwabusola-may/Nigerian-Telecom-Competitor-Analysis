@@ -1,0 +1,61 @@
+Nigerian Telecom Competitor Analysis — SQL Business Questions
+
+Competitive Positioning
+
+Q1 What is each operator's market share (%) of total voice subscriptions, by quarter?
+Insight: MTN holds a stable, slowly strengthening lead (49.0% → 52.4% → 52.1% across the tracked quarters), with AIRTEL a distant but steady #2 (~34-35%) and GLO holding a consistent third (~12%). EMTS has visibly collapsed from 3.41% to 1.27%.
+Recommendation: MTN's dominance isn't just size — it's stability. A challenger strategy modeled on "steady incremental gains" (like GLO) is more realistic than trying to unseat MTN outright.
+
+Q2 Which operator gained the most competitive ground (percentage points of share) between Q2 2024 and Q4 2025?
+Insight: MTN gained the most ground of anyone (+3.07pp) — meaning the market leader is also the market's biggest winner, a sign of compounding advantage rather than competitive erosion. EMTS lost the most (-2.14pp), AIRTEL also declined (-1.01pp).
+Recommendation: This should be your headline chart — it reframes the story from "who's #1" to "who's actually winning momentum," which is the more interesting recruiter-facing insight.
+
+Q3 Which states does MTN hold a dominant position in (>50% share), and which are genuinely contested markets (no operator >35% share)?
+Insight: MTN dominates (>50%) in most states, but Lagos (45.99%) and Benue (41.19%) are genuinely contested notably, Lagos, Nigeria's largest and most economically important market, is NOT an MTN stronghold. Borno stands out as the one state where AIRTEL, not MTN, is the leading operator (56.88%).
+Recommendation: Lagos and Borno are your two most strategically interesting states for a "battleground" dashboard page, Lagos because it's contested despite its size, Borno because it flips the national pattern entirely.
+
+Q4 Is any operator stronger in internet subscriptions than voice, or vice versa — a signal of where they compete best?
+Insight: MTN and AIRTEL are both relatively *stronger* in internet than voice (+1.97pp and +1.14pp respectively), suggesting the data market is where the two leaders are extending their lead. GLO is the inverse — notably weaker in internet (-2.39pp) than voice, its worst service-type gap of any operator.
+Recommendation: GLO's data weakness relative to its voice base is a vulnerability worth flagging, if this is a real business problem, it explains why GLO isn't converting voice-market presence into the higher-margin data business.
+
+Q5 Which operator has the most volatile quarter-over-quarter growth — a sign of inconsistent competitive momentum?
+Insight: Small-base operators (NTEL, SMILE, BIG PICTURE) show extreme volatility purely as a mathematical artifact of dividing by tiny prior-quarter numbers — this isn't real business volatility. Among the operators that actually matter competitively, EMTS is the most volatile (20.48), consistent with a company in decline rather than steady operation.
+Recommendation: Present two volatility rankings in your dashboard — full and "major operators only" (excluding sub-scale players) — with a footnote explaining why, so the metric doesn't mislead.
+
+
+Competitive Pressure (Porting)
+
+Q6/Q7 — Net porting flow and cumulative loss
+Insight: EMTS's cumulative net porting loss (-17,611) is nearly 4x worse than the next-worst figure and is negative in literally every quarter shown — this is sustained, not a one-off dip. MTN (+12,802) and AIRTEL (+4,219) are net winners; GLO is only marginally positive (+590).
+Recommendation: EMTS's porting collapse is your strongest single data point for the "why is a company losing" narrative — pair this chart directly next to Q2's share-loss chart on the same dashboard page for maximum impact.
+
+Q8  Does an operator's porting losses in one quarter predict a market share decline in the following quarter?
+Insight: The pattern holds reasonably well for EMTS — most of its negative net-flow quarters are followed by negative share change the next quarter. It's less consistent for MTN/AIRTEL/GLO, where positive porting doesn't always translate to next-quarter gains (e.g., 2025 Q2 MTN: strong net flow of 2269 → only +0.087pp).
+Recommendation: Frame this carefully — porting appears to be a leading indicator of decline (useful for spotting a struggling operator) more than a leading indicator of growth. State that asymmetry explicitly rather than claiming a clean bidirectional correlation.
+
+Q9 Which operator is winning the most switched customers — the largest share of all port-ins in a quarter?
+Insight: MTN wins the outright majority of all switched customers every quarter (59-71%), meaning MTN isn't just retaining its base — it's actively absorbing churn from every other operator. AIRTEL is a distant second (19-28%), EMTS barely registers (<1%).
+*Recommendation:* This is strong evidence that MTN's growth (Q1/Q2) isn't organic subscriber growth alone — it's competitively won. Worth a one-line callout on the dashboard: "MTN wins roughly 2 out of every 3 switched customers nationally."
+
+Q10  Which states show a challenger operator (not MTN) gaining share the fastest — early signals of a shifting competitive market?
+Insight: GLO is the standout challenger, leading nearly every top YoY-gain row — strongest in Edo, Delta, and FCT. This is a meaningfully different story from the national share data (Q1/Q2), where GLO looks flat — the state-level view reveals GLO is actually growing fast in specific pockets even while holding steady nationally.
+Recommendation: This is your best "zoom in" moment for the Regional Battlegrounds page — pair the national flat-share chart with the state-level growth map to show the aggregate number hides real regional momentum.
+
+
+Competitive Battlegrounds (Regional)
+
+Q11 In states where a challenger is gaining voice share, are they also winning net ports in that same state or zone — does the porting data corroborate the share shift?
+Insight: Since porting had to be dropped to national level (no state/zone data), this query is functionally answering the same question as Q8 from a same-quarter (rather than lagged) angle — worth confirming the two don't just restate each other with different lag windows before presenting both.
+Recommendation: Consider keeping only one of Q8/Q11 as a headline chart and demoting the other to supplementary, since they measure closely related things — using both as separate "insights" risks looking redundant to a recruiter who reads closely.
+
+Q12 Which zone (North Central, South West, etc.) is the most competitively contested overall — the most even split across operators — and which has the most concentrated, monopoly-like structure?
+Insight: South West is the most competitively contested zone (0.3759), followed by North Central (0.3907); North East is the most concentrated/monopolistic (0.4588) — likely reflecting security and infrastructure realities limiting operator investment there.
+Recommendation: This is a good candidate for a short qualitative note in your README — the North East's concentration is plausibly explained by real-world context (insurgency-related infrastructure risk) rather than pure market dynamics, which shows business judgment beyond the SQL.
+
+Q13 — Validation
+Insight: Your calculated per-quarter totals are in hand for both voice and internet; final step is diffing them against the published TOTAL rows you preserved before cleaning.
+Recommendation: Do this before finalizing anything else — it's the one query that, if it fails, could quietly undermine every other number in the dashboard.
+
+Q14. Which states show the largest gap between voice penetration and internet penetration — potential underserved or infrastructure-gap markets?
+Insight: By raw gap, Lagos, Kano, Ogun, and Oyo top the list — but that's mostly a population effect (bigger states, bigger gaps). By Internet_As_Pct_Of_Voice (the fairer metric), Niger (77.07%), Benue (75.29%), Sokoto (75.34%), and Taraba (79.64%) show the weakest internet adoption relative to their own voice base — a genuinely different, shorter list of underserved states.
+Recommendation: Lead the dashboard with the percentage-ranked view, not raw gap — it's the real "underserved market" signal. Flag Lagos/Kano's large raw gap as a population artifact in your README, not a sign of worse infrastructure.

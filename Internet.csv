@@ -1,0 +1,2447 @@
+﻿S/N,State,Operator,Subscriptions,Quarter,Year,Zone,Service_type
+1,Abia,MTN,1493739,3,2024,South East,Internet
+2,Abia,GLO,488429,3,2024,South East,Internet
+3,Abia,AIRTEL,749779,3,2024,South East,Internet
+4,Abia,EMTS,33559,3,2024,South East,Internet
+5,Abia,IPNX,0,3,2024,South East,Internet
+6,Abia,MTN FIXED,0,3,2024,South East,Internet
+7,Abia,INQ,0,3,2024,South East,Internet
+8,Abia,21ST CENT,0,3,2024,South East,Internet
+9,Abia,SMILE,0,3,2024,South East,Internet
+10,Abia,NTEL,0,3,2024,South East,Internet
+11,Adamawa,MTN,1283482,3,2024,North East,Internet
+12,Adamawa,GLO,883110,3,2024,North East,Internet
+13,Adamawa,AIRTEL,1011159,3,2024,North East,Internet
+14,Adamawa,EMTS,11255,3,2024,North East,Internet
+15,Adamawa,IPNX,0,3,2024,North East,Internet
+16,Adamawa,MTN FIXED,0,3,2024,North East,Internet
+17,Adamawa,INQ,0,3,2024,North East,Internet
+18,Adamawa,21ST CENT,0,3,2024,North East,Internet
+19,Adamawa,SMILE,0,3,2024,North East,Internet
+20,Adamawa,NTEL,0,3,2024,North East,Internet
+21,Akwa Ibom,MTN,1191085,3,2024,South South,Internet
+22,Akwa Ibom,GLO,126913,3,2024,South South,Internet
+23,Akwa Ibom,AIRTEL,897606,3,2024,South South,Internet
+24,Akwa Ibom,EMTS,24526,3,2024,South South,Internet
+25,Akwa Ibom,IPNX,0,3,2024,South South,Internet
+26,Akwa Ibom,MTN FIXED,0,3,2024,South South,Internet
+27,Akwa Ibom,INQ,0,3,2024,South South,Internet
+28,Akwa Ibom,21ST CENT,0,3,2024,South South,Internet
+29,Akwa Ibom,SMILE,0,3,2024,South South,Internet
+30,Akwa Ibom,NTEL,0,3,2024,South South,Internet
+31,Anambra,MTN,2403905,3,2024,South East,Internet
+32,Anambra,GLO,172260,3,2024,South East,Internet
+33,Anambra,AIRTEL,1155095,3,2024,South East,Internet
+34,Anambra,EMTS,41143,3,2024,South East,Internet
+35,Anambra,IPNX,0,3,2024,South East,Internet
+36,Anambra,MTN FIXED,0,3,2024,South East,Internet
+37,Anambra,INQ,0,3,2024,South East,Internet
+38,Anambra,21ST CENT,0,3,2024,South East,Internet
+39,Anambra,SMILE,7087,3,2024,South East,Internet
+40,Anambra,NTEL,0,3,2024,South East,Internet
+41,Bauchi,MTN,1556084,3,2024,North East,Internet
+42,Bauchi,GLO,299928,3,2024,North East,Internet
+43,Bauchi,AIRTEL,1177999,3,2024,North East,Internet
+44,Bauchi,EMTS,1504,3,2024,North East,Internet
+45,Bauchi,IPNX,0,3,2024,North East,Internet
+46,Bauchi,MTN FIXED,0,3,2024,North East,Internet
+47,Bauchi,INQ,0,3,2024,North East,Internet
+48,Bauchi,21ST CENT,0,3,2024,North East,Internet
+49,Bauchi,SMILE,0,3,2024,North East,Internet
+50,Bauchi,NTEL,0,3,2024,North East,Internet
+51,Bayelsa,MTN,487902,3,2024,South South,Internet
+52,Bayelsa,GLO,122607,3,2024,South South,Internet
+53,Bayelsa,AIRTEL,281393,3,2024,South South,Internet
+54,Bayelsa,EMTS,0,3,2024,South South,Internet
+55,Bayelsa,IPNX,0,3,2024,South South,Internet
+56,Bayelsa,MTN FIXED,0,3,2024,South South,Internet
+57,Bayelsa,INQ,0,3,2024,South South,Internet
+58,Bayelsa,21ST CENT,0,3,2024,South South,Internet
+59,Bayelsa,SMILE,0,3,2024,South South,Internet
+60,Bayelsa,NTEL,0,3,2024,South South,Internet
+61,Benue,MTN,1181000,3,2024,North Central,Internet
+62,Benue,GLO,185622,3,2024,North Central,Internet
+63,Benue,AIRTEL,1152647,3,2024,North Central,Internet
+64,Benue,EMTS,1681,3,2024,North Central,Internet
+65,Benue,IPNX,0,3,2024,North Central,Internet
+66,Benue,MTN FIXED,0,3,2024,North Central,Internet
+67,Benue,INQ,0,3,2024,North Central,Internet
+68,Benue,21ST CENT,0,3,2024,North Central,Internet
+69,Benue,SMILE,0,3,2024,North Central,Internet
+70,Benue,NTEL,0,3,2024,North Central,Internet
+71,Borno,MTN,992238,3,2024,North East,Internet
+72,Borno,GLO,493048,3,2024,North East,Internet
+73,Borno,AIRTEL,1387163,3,2024,North East,Internet
+74,Borno,EMTS,18429,3,2024,North East,Internet
+75,Borno,IPNX,0,3,2024,North East,Internet
+76,Borno,MTN FIXED,0,3,2024,North East,Internet
+77,Borno,INQ,0,3,2024,North East,Internet
+78,Borno,21ST CENT,0,3,2024,North East,Internet
+79,Borno,SMILE,0,3,2024,North East,Internet
+80,Borno,NTEL,0,3,2024,North East,Internet
+81,Cross River,MTN,1013193,3,2024,South South,Internet
+82,Cross River,GLO,100665,3,2024,South South,Internet
+83,Cross River,AIRTEL,621424,3,2024,South South,Internet
+84,Cross River,EMTS,32450,3,2024,South South,Internet
+85,Cross River,IPNX,0,3,2024,South South,Internet
+86,Cross River,MTN FIXED,82,3,2024,South South,Internet
+87,Cross River,INQ,0,3,2024,South South,Internet
+88,Cross River,21ST CENT,0,3,2024,South South,Internet
+89,Cross River,SMILE,0,3,2024,South South,Internet
+90,Cross River,NTEL,0,3,2024,South South,Internet
+91,Delta,MTN,2627141,3,2024,South South,Internet
+92,Delta,GLO,168858,3,2024,South South,Internet
+93,Delta,AIRTEL,1599816,3,2024,South South,Internet
+94,Delta,EMTS,22524,3,2024,South South,Internet
+95,Delta,IPNX,0,3,2024,South South,Internet
+96,Delta,MTN FIXED,295,3,2024,South South,Internet
+97,Delta,INQ,0,3,2024,South South,Internet
+98,Delta,21ST CENT,0,3,2024,South South,Internet
+99,Delta,SMILE,5523,3,2024,South South,Internet
+100,Delta,NTEL,0,3,2024,South South,Internet
+101,Ebonyi,MTN,608098,3,2024,South East,Internet
+102,Ebonyi,GLO,779227,3,2024,South East,Internet
+103,Ebonyi,AIRTEL,486535,3,2024,South East,Internet
+104,Ebonyi,EMTS,0,3,2024,South East,Internet
+105,Ebonyi,IPNX,0,3,2024,South East,Internet
+106,Ebonyi,MTN FIXED,0,3,2024,South East,Internet
+107,Ebonyi,INQ,0,3,2024,South East,Internet
+108,Ebonyi,21ST CENT,0,3,2024,South East,Internet
+109,Ebonyi,NTEL,0,3,2024,South East,Internet
+110,Edo,MTN,2156687,3,2024,South South,Internet
+111,Edo,GLO,80111,3,2024,South South,Internet
+112,Edo,AIRTEL,1150044,3,2024,South South,Internet
+113,Edo,EMTS,44734,3,2024,South South,Internet
+114,Edo,IPNX,0,3,2024,South South,Internet
+115,Edo,MTN FIXED,0,3,2024,South South,Internet
+116,Edo,INQ,0,3,2024,South South,Internet
+117,Edo,21ST CENT,0,3,2024,South South,Internet
+118,Edo,SMILE,7730,3,2024,South South,Internet
+119,Edo,NTEL,0,3,2024,South South,Internet
+120,Ekiti,MTN,907363,3,2024,South West,Internet
+121,Ekiti,GLO,1088663,3,2024,South West,Internet
+122,Ekiti,AIRTEL,295615,3,2024,South West,Internet
+123,Ekiti,EMTS,274,3,2024,South West,Internet
+124,Ekiti,IPNX,0,3,2024,South West,Internet
+125,Ekiti,MTN FIXED,0,3,2024,South West,Internet
+126,Ekiti,INQ,0,3,2024,South West,Internet
+127,Ekiti,21ST CENT,0,3,2024,South West,Internet
+128,Ekiti,SMILE,0,3,2024,South West,Internet
+129,Ekiti,NTEL,0,3,2024,South West,Internet
+130,Enugu,MTN,1544564,3,2024,South East,Internet
+131,Enugu,GLO,107796,3,2024,South East,Internet
+132,Enugu,AIRTEL,757891,3,2024,South East,Internet
+133,Enugu,EMTS,31115,3,2024,South East,Internet
+134,Enugu,IPNX,0,3,2024,South East,Internet
+135,Enugu,MTN FIXED,100,3,2024,South East,Internet
+136,Enugu,INQ,0,3,2024,South East,Internet
+137,Enugu,21ST CENT,0,3,2024,South East,Internet
+138,Enugu,SMILE,0,3,2024,South East,Internet
+139,Enugu,NTEL,0,3,2024,South East,Internet
+140,Fct,MTN,3097738,3,2024,North Central,Internet
+141,Fct,GLO,370282,3,2024,North Central,Internet
+142,Fct,AIRTEL,1827123,3,2024,North Central,Internet
+143,Fct,EMTS,241023,3,2024,North Central,Internet
+144,Fct,IPNX,0,3,2024,North Central,Internet
+145,Fct,MTN FIXED,2133,3,2024,North Central,Internet
+146,Fct,INQ,0,3,2024,North Central,Internet
+147,Fct,21ST CENT,54,3,2024,North Central,Internet
+148,Fct,SMILE,19052,3,2024,North Central,Internet
+149,Fct,NTEL,1279,3,2024,North Central,Internet
+150,Gombe,MTN,883284,3,2024,North East,Internet
+151,Gombe,GLO,101960,3,2024,North East,Internet
+152,Gombe,AIRTEL,545449,3,2024,North East,Internet
+153,Gombe,EMTS,14864,3,2024,North East,Internet
+154,Gombe,IPNX,0,3,2024,North East,Internet
+155,Gombe,MTN FIXED,0,3,2024,North East,Internet
+156,Gombe,INQ,0,3,2024,North East,Internet
+157,Gombe,21ST CENT,0,3,2024,North East,Internet
+158,Gombe,NTEL,0,3,2024,North East,Internet
+159,Imo,MTN,1932816,3,2024,South East,Internet
+160,Imo,GLO,221955,3,2024,South East,Internet
+161,Imo,AIRTEL,790917,3,2024,South East,Internet
+162,Imo,EMTS,30519,3,2024,South East,Internet
+163,Imo,IPNX,0,3,2024,South East,Internet
+164,Imo,MTN FIXED,20,3,2024,South East,Internet
+165,Imo,INQ,0,3,2024,South East,Internet
+166,Imo,21ST CENT,0,3,2024,South East,Internet
+167,Imo,NTEL,0,3,2024,South East,Internet
+168,Jigawa,MTN,1041523,3,2024,North West,Internet
+169,Jigawa,GLO,82403,3,2024,North West,Internet
+170,Jigawa,AIRTEL,866903,3,2024,North West,Internet
+171,Jigawa,EMTS,1709,3,2024,North West,Internet
+172,Jigawa,IPNX,0,3,2024,North West,Internet
+173,Jigawa,MTN FIXED,0,3,2024,North West,Internet
+174,Jigawa,INQ,0,3,2024,North West,Internet
+175,Jigawa,21ST CENT,0,3,2024,North West,Internet
+176,Jigawa,NTEL,0,3,2024,North West,Internet
+177,Kaduna,MTN,2844192,3,2024,North West,Internet
+178,Kaduna,GLO,536619,3,2024,North West,Internet
+179,Kaduna,AIRTEL,2300445,3,2024,North West,Internet
+180,Kaduna,EMTS,107787,3,2024,North West,Internet
+181,Kaduna,IPNX,0,3,2024,North West,Internet
+182,Kaduna,MTN FIXED,190,3,2024,North West,Internet
+183,Kaduna,INQ,0,3,2024,North West,Internet
+184,Kaduna,21ST CENT,0,3,2024,North West,Internet
+185,Kaduna,SMILE,52631,3,2024,North West,Internet
+186,Kaduna,NTEL,0,3,2024,North West,Internet
+187,Kano,MTN,4098848,3,2024,North West,Internet
+188,Kano,GLO,449720,3,2024,North West,Internet
+189,Kano,AIRTEL,3417190,3,2024,North West,Internet
+190,Kano,EMTS,108085,3,2024,North West,Internet
+191,Kano,IPNX,0,3,2024,North West,Internet
+192,Kano,MTN FIXED,0,3,2024,North West,Internet
+193,Kano,INQ,0,3,2024,North West,Internet
+194,Kano,21ST CENT,0,3,2024,North West,Internet
+195,Kano,SMILE,21090,3,2024,North West,Internet
+196,Kano,NTEL,0,3,2024,North West,Internet
+197,Katsina,MTN,1900120,3,2024,North West,Internet
+198,Katsina,GLO,187181,3,2024,North West,Internet
+199,Katsina,AIRTEL,1334534,3,2024,North West,Internet
+200,Katsina,EMTS,12818,3,2024,North West,Internet
+201,Katsina,IPNX,0,3,2024,North West,Internet
+202,Katsina,MTN FIXED,0,3,2024,North West,Internet
+203,Katsina,INQ,0,3,2024,North West,Internet
+204,Katsina,21ST CENT,0,3,2024,North West,Internet
+205,Katsina,NTEL,0,3,2024,North West,Internet
+206,Kebbi,MTN,1078128,3,2024,North West,Internet
+207,Kebbi,GLO,98894,3,2024,North West,Internet
+208,Kebbi,AIRTEL,566302,3,2024,North West,Internet
+209,Kebbi,EMTS,2305,3,2024,North West,Internet
+210,Kebbi,IPNX,0,3,2024,North West,Internet
+211,Kebbi,MTN FIXED,0,3,2024,North West,Internet
+212,Kebbi,INQ,0,3,2024,North West,Internet
+213,Kebbi,21ST CENT,0,3,2024,North West,Internet
+214,Kebbi,NTEL,0,3,2024,North West,Internet
+215,Kogi,MTN,1151770,3,2024,North Central,Internet
+216,Kogi,GLO,526930,3,2024,North Central,Internet
+217,Kogi,AIRTEL,476095,3,2024,North Central,Internet
+218,Kogi,EMTS,698,3,2024,North Central,Internet
+219,Kogi,IPNX,0,3,2024,North Central,Internet
+220,Kogi,MTN FIXED,0,3,2024,North Central,Internet
+221,Kogi,INQ,0,3,2024,North Central,Internet
+222,Kogi,21ST CENT,0,3,2024,North Central,Internet
+223,Kogi,NTEL,0,3,2024,North Central,Internet
+224,Kwara,MTN,1626765,3,2024,North Central,Internet
+225,Kwara,GLO,484415,3,2024,North Central,Internet
+226,Kwara,AIRTEL,815668,3,2024,North Central,Internet
+227,Kwara,EMTS,42481,3,2024,North Central,Internet
+228,Kwara,IPNX,0,3,2024,North Central,Internet
+229,Kwara,MTN FIXED,186,3,2024,North Central,Internet
+230,Kwara,INQ,0,3,2024,North Central,Internet
+231,Kwara,21ST CENT,0,3,2024,North Central,Internet
+232,Kwara,NTEL,0,3,2024,North Central,Internet
+233,Lagos,MTN,7598700,3,2024,South West,Internet
+234,Lagos,GLO,3529855,3,2024,South West,Internet
+235,Lagos,AIRTEL,5596620,3,2024,South West,Internet
+236,Lagos,EMTS,908678,3,2024,South West,Internet
+237,Lagos,IPNX,0,3,2024,South West,Internet
+238,Lagos,MTN FIXED,2821,3,2024,South West,Internet
+239,Lagos,INQ,0,3,2024,South West,Internet
+240,Lagos,21ST CENT,2149,3,2024,South West,Internet
+241,Lagos,SMILE,41523,3,2024,South West,Internet
+242,Lagos,NTEL,1907,3,2024,South West,Internet
+243,Nassarawa,MTN,1359713,3,2024,North Central,Internet
+244,Nassarawa,GLO,309829,3,2024,North Central,Internet
+245,Nassarawa,AIRTEL,1025696,3,2024,North Central,Internet
+246,Nassarawa,EMTS,22744,3,2024,North Central,Internet
+247,Nassarawa,IPNX,0,3,2024,North Central,Internet
+248,Nassarawa,MTN FIXED,0,3,2024,North Central,Internet
+249,Nassarawa,INQ,0,3,2024,North Central,Internet
+250,Nassarawa,21ST CENT,0,3,2024,North Central,Internet
+251,Nassarawa,NTEL,14,3,2024,North Central,Internet
+252,Niger,MTN,2007437,3,2024,North Central,Internet
+253,Niger,GLO,545701,3,2024,North Central,Internet
+254,Niger,AIRTEL,1185558,3,2024,North Central,Internet
+255,Niger,EMTS,30287,3,2024,North Central,Internet
+256,Niger,IPNX,0,3,2024,North Central,Internet
+257,Niger,MTN FIXED,0,3,2024,North Central,Internet
+258,Niger,INQ,0,3,2024,North Central,Internet
+259,Niger,21ST CENT,0,3,2024,North Central,Internet
+260,Niger,NTEL,5,3,2024,North Central,Internet
+261,Ogun,MTN,3744741,3,2024,South West,Internet
+262,Ogun,GLO,911493,3,2024,South West,Internet
+263,Ogun,AIRTEL,2864715,3,2024,South West,Internet
+264,Ogun,EMTS,187826,3,2024,South West,Internet
+265,Ogun,IPNX,0,3,2024,South West,Internet
+266,Ogun,MTN FIXED,3,3,2024,South West,Internet
+267,Ogun,INQ,0,3,2024,South West,Internet
+268,Ogun,21ST CENT,0,3,2024,South West,Internet
+269,Ogun,NTEL,39,3,2024,South West,Internet
+270,Ondo,MTN,1679904,3,2024,South West,Internet
+271,Ondo,GLO,569838,3,2024,South West,Internet
+272,Ondo,AIRTEL,568517,3,2024,South West,Internet
+273,Ondo,EMTS,1717,3,2024,South West,Internet
+274,Ondo,IPNX,0,3,2024,South West,Internet
+275,Ondo,MTN FIXED,0,3,2024,South West,Internet
+276,Ondo,INQ,0,3,2024,South West,Internet
+277,Ondo,21ST CENT,0,3,2024,South West,Internet
+278,Ondo,NTEL,0,3,2024,South West,Internet
+279,Osun,MTN,1814235,3,2024,South West,Internet
+280,Osun,GLO,468514,3,2024,South West,Internet
+281,Osun,AIRTEL,749480,3,2024,South West,Internet
+282,Osun,EMTS,0,3,2024,South West,Internet
+283,Osun,IPNX,0,3,2024,South West,Internet
+284,Osun,MTN FIXED,0,3,2024,South West,Internet
+285,Osun,INQ,0,3,2024,South West,Internet
+286,Osun,21ST CENT,0,3,2024,South West,Internet
+287,Osun,NTEL,0,3,2024,South West,Internet
+288,Oyo,MTN,2814837,3,2024,South West,Internet
+289,Oyo,GLO,1174148,3,2024,South West,Internet
+290,Oyo,AIRTEL,1997988,3,2024,South West,Internet
+291,Oyo,EMTS,109159,3,2024,South West,Internet
+292,Oyo,IPNX,0,3,2024,South West,Internet
+293,Oyo,MTN FIXED,140,3,2024,South West,Internet
+294,Oyo,INQ,0,3,2024,South West,Internet
+295,Oyo,21ST CENT,0,3,2024,South West,Internet
+296,Oyo,SMILE,31408,3,2024,South West,Internet
+297,Oyo,NTEL,0,3,2024,South West,Internet
+298,Plateau,MTN,1501276,3,2024,North Central,Internet
+299,Plateau,GLO,219306,3,2024,North Central,Internet
+300,Plateau,AIRTEL,872750,3,2024,North Central,Internet
+301,Plateau,EMTS,27693,3,2024,North Central,Internet
+302,Plateau,IPNX,0,3,2024,North Central,Internet
+303,Plateau,MTN FIXED,0,3,2024,North Central,Internet
+304,Plateau,INQ,0,3,2024,North Central,Internet
+305,Plateau,21ST CENT,0,3,2024,North Central,Internet
+306,Plateau,NTEL,0,3,2024,North Central,Internet
+307,Rivers,MTN,2792430,3,2024,South South,Internet
+308,Rivers,GLO,595841,3,2024,South South,Internet
+309,Rivers,AIRTEL,1354027,3,2024,South South,Internet
+310,Rivers,EMTS,144400,3,2024,South South,Internet
+311,Rivers,IPNX,0,3,2024,South South,Internet
+312,Rivers,MTN FIXED,1224,3,2024,South South,Internet
+313,Rivers,INQ,0,3,2024,South South,Internet
+314,Rivers,21ST CENT,56,3,2024,South South,Internet
+315,Rivers,SMILE,15973,3,2024,South South,Internet
+316,Rivers,NTEL,373,3,2024,South South,Internet
+317,Sokoto,MTN,1179220,3,2024,North West,Internet
+318,Sokoto,GLO,203059,3,2024,North West,Internet
+319,Sokoto,AIRTEL,540231,3,2024,North West,Internet
+320,Sokoto,EMTS,30819,3,2024,North West,Internet
+321,Sokoto,IPNX,0,3,2024,North West,Internet
+322,Sokoto,MTN FIXED,0,3,2024,North West,Internet
+323,Sokoto,INQ,0,3,2024,North West,Internet
+324,Sokoto,21ST CENT,0,3,2024,North West,Internet
+325,Sokoto,NTEL,0,3,2024,North West,Internet
+326,Taraba,MTN,1056859,3,2024,North East,Internet
+327,Taraba,GLO,72027,3,2024,North East,Internet
+328,Taraba,AIRTEL,892787,3,2024,North East,Internet
+329,Taraba,EMTS,0,3,2024,North East,Internet
+330,Taraba,IPNX,0,3,2024,North East,Internet
+331,Taraba,MTN FIXED,0,3,2024,North East,Internet
+332,Taraba,INQ,0,3,2024,North East,Internet
+333,Taraba,21ST CENT,0,3,2024,North East,Internet
+334,Taraba,NTEL,0,3,2024,North East,Internet
+335,Yobe,MTN,933998,3,2024,North East,Internet
+336,Yobe,GLO,48917,3,2024,North East,Internet
+337,Yobe,AIRTEL,878672,3,2024,North East,Internet
+338,Yobe,EMTS,2859,3,2024,North East,Internet
+339,Yobe,IPNX,0,3,2024,North East,Internet
+340,Yobe,MTN FIXED,0,3,2024,North East,Internet
+341,Yobe,INQ,0,3,2024,North East,Internet
+342,Yobe,21ST CENT,0,3,2024,North East,Internet
+343,Yobe,NTEL,0,3,2024,North East,Internet
+344,Zamfara,MTN,808610,3,2024,North West,Internet
+345,Zamfara,GLO,117083,3,2024,North West,Internet
+346,Zamfara,AIRTEL,604519,3,2024,North West,Internet
+347,Zamfara,EMTS,1363,3,2024,North West,Internet
+348,Zamfara,IPNX,0,3,2024,North West,Internet
+349,Zamfara,MTN FIXED,0,3,2024,North West,Internet
+350,Zamfara,INQ,0,3,2024,North West,Internet
+351,Zamfara,21ST CENT,0,3,2024,North West,Internet
+352,Zamfara,NTEL,0,3,2024,North West,Internet
+353,Abia,MTN,1600822,1,2025,South East,Internet
+354,Abia,GLO,349113,1,2025,South East,Internet
+355,Abia,AIRTEL,799370,1,2025,South East,Internet
+356,Abia,EMTS,24343,1,2025,South East,Internet
+357,Abia,IPNX,0,1,2025,South East,Internet
+358,Abia,MTN FIXED,0,1,2025,South East,Internet
+359,Abia,INQ,0,1,2025,South East,Internet
+360,Abia,21ST CENT,0,1,2025,South East,Internet
+361,Abia,SMILE,0,1,2025,South East,Internet
+362,Abia,NTEL,0,1,2025,South East,Internet
+363,Adamawa,MTN,1491121,1,2025,North East,Internet
+364,Adamawa,GLO,101567,1,2025,North East,Internet
+365,Adamawa,AIRTEL,1163694,1,2025,North East,Internet
+366,Adamawa,EMTS,8149,1,2025,North East,Internet
+367,Adamawa,IPNX,0,1,2025,North East,Internet
+368,Adamawa,MTN FIXED,0,1,2025,North East,Internet
+369,Adamawa,INQ,0,1,2025,North East,Internet
+370,Adamawa,21ST CENT,0,1,2025,North East,Internet
+371,Adamawa,SMILE,0,1,2025,North East,Internet
+372,Adamawa,NTEL,0,1,2025,North East,Internet
+373,Akwa Ibom,MTN,1281075,1,2025,South South,Internet
+374,Akwa Ibom,GLO,144972,1,2025,South South,Internet
+375,Akwa Ibom,AIRTEL,928908,1,2025,South South,Internet
+376,Akwa Ibom,EMTS,17923,1,2025,South South,Internet
+377,Akwa Ibom,IPNX,0,1,2025,South South,Internet
+378,Akwa Ibom,MTN FIXED,358,1,2025,South South,Internet
+379,Akwa Ibom,INQ,0,1,2025,South South,Internet
+380,Akwa Ibom,21ST CENT,0,1,2025,South South,Internet
+381,Akwa Ibom,SMILE,0,1,2025,South South,Internet
+382,Akwa Ibom,NTEL,0,1,2025,South South,Internet
+383,Anambra,MTN,2593687,1,2025,South East,Internet
+384,Anambra,GLO,271511,1,2025,South East,Internet
+385,Anambra,AIRTEL,1197837,1,2025,South East,Internet
+386,Anambra,EMTS,25876,1,2025,South East,Internet
+387,Anambra,IPNX,0,1,2025,South East,Internet
+388,Anambra,MTN FIXED,359,1,2025,South East,Internet
+389,Anambra,INQ,0,1,2025,South East,Internet
+390,Anambra,21ST CENT,0,1,2025,South East,Internet
+391,Anambra,SMILE,6872,1,2025,South East,Internet
+392,Anambra,NTEL,0,1,2025,South East,Internet
+393,Bauchi,MTN,1820079,1,2025,North East,Internet
+394,Bauchi,GLO,103031,1,2025,North East,Internet
+395,Bauchi,AIRTEL,1376516,1,2025,North East,Internet
+396,Bauchi,EMTS,715,1,2025,North East,Internet
+397,Bauchi,IPNX,0,1,2025,North East,Internet
+398,Bauchi,MTN FIXED,0,1,2025,North East,Internet
+399,Bauchi,INQ,0,1,2025,North East,Internet
+400,Bauchi,21ST CENT,0,1,2025,North East,Internet
+401,Bauchi,SMILE,0,1,2025,North East,Internet
+402,Bauchi,NTEL,0,1,2025,North East,Internet
+403,Bayelsa,MTN,515108,1,2025,South South,Internet
+404,Bayelsa,GLO,159623,1,2025,South South,Internet
+405,Bayelsa,AIRTEL,299842,1,2025,South South,Internet
+406,Bayelsa,EMTS,0,1,2025,South South,Internet
+407,Bayelsa,IPNX,0,1,2025,South South,Internet
+408,Bayelsa,MTN FIXED,0,1,2025,South South,Internet
+409,Bayelsa,INQ,0,1,2025,South South,Internet
+410,Bayelsa,21ST CENT,0,1,2025,South South,Internet
+411,Bayelsa,SMILE,0,1,2025,South South,Internet
+412,Bayelsa,NTEL,0,1,2025,South South,Internet
+413,Benue,MTN,1357908,1,2025,North Central,Internet
+414,Benue,GLO,424015,1,2025,North Central,Internet
+415,Benue,AIRTEL,1281734,1,2025,North Central,Internet
+416,Benue,EMTS,0,1,2025,North Central,Internet
+417,Benue,IPNX,0,1,2025,North Central,Internet
+418,Benue,MTN FIXED,0,1,2025,North Central,Internet
+419,Benue,INQ,0,1,2025,North Central,Internet
+420,Benue,21ST CENT,0,1,2025,North Central,Internet
+421,Benue,SMILE,0,1,2025,North Central,Internet
+422,Benue,NTEL,0,1,2025,North Central,Internet
+423,Borno,MTN,1118293,1,2025,North East,Internet
+424,Borno,GLO,82141,1,2025,North East,Internet
+425,Borno,AIRTEL,1563995,1,2025,North East,Internet
+426,Borno,EMTS,14596,1,2025,North East,Internet
+427,Borno,IPNX,0,1,2025,North East,Internet
+428,Borno,MTN FIXED,0,1,2025,North East,Internet
+429,Borno,INQ,0,1,2025,North East,Internet
+430,Borno,21ST CENT,0,1,2025,North East,Internet
+431,Borno,SMILE,0,1,2025,North East,Internet
+432,Borno,NTEL,0,1,2025,North East,Internet
+433,Cross River,MTN,1178901,1,2025,South South,Internet
+434,Cross River,GLO,143488,1,2025,South South,Internet
+435,Cross River,AIRTEL,689991,1,2025,South South,Internet
+436,Cross River,EMTS,24300,1,2025,South South,Internet
+437,Cross River,IPNX,0,1,2025,South South,Internet
+438,Cross River,MTN FIXED,211,1,2025,South South,Internet
+439,Cross River,INQ,0,1,2025,South South,Internet
+440,Cross River,21ST CENT,0,1,2025,South South,Internet
+441,Cross River,SMILE,0,1,2025,South South,Internet
+442,Cross River,NTEL,0,1,2025,South South,Internet
+443,Delta,MTN,2864934,1,2025,South South,Internet
+444,Delta,GLO,761376,1,2025,South South,Internet
+445,Delta,AIRTEL,1659527,1,2025,South South,Internet
+446,Delta,EMTS,16570,1,2025,South South,Internet
+447,Delta,IPNX,0,1,2025,South South,Internet
+448,Delta,MTN FIXED,326,1,2025,South South,Internet
+449,Delta,INQ,0,1,2025,South South,Internet
+450,Delta,21ST CENT,0,1,2025,South South,Internet
+451,Delta,SMILE,5136,1,2025,South South,Internet
+452,Delta,NTEL,0,1,2025,South South,Internet
+453,Ebonyi,MTN,704109,1,2025,South East,Internet
+454,Ebonyi,GLO,65876,1,2025,South East,Internet
+455,Ebonyi,AIRTEL,539100,1,2025,South East,Internet
+456,Ebonyi,EMTS,0,1,2025,South East,Internet
+457,Ebonyi,IPNX,0,1,2025,South East,Internet
+458,Ebonyi,MTN FIXED,0,1,2025,South East,Internet
+459,Ebonyi,INQ,0,1,2025,South East,Internet
+460,Ebonyi,21ST CENT,0,1,2025,South East,Internet
+461,Ebonyi,SMILE,0,1,2025,South East,Internet
+462,Ebonyi,NTEL,0,1,2025,South East,Internet
+463,Edo,MTN,2367307,1,2025,South South,Internet
+464,Edo,GLO,1048740,1,2025,South South,Internet
+465,Edo,AIRTEL,1247396,1,2025,South South,Internet
+466,Edo,EMTS,33528,1,2025,South South,Internet
+467,Edo,IPNX,0,1,2025,South South,Internet
+468,Edo,MTN FIXED,0,1,2025,South South,Internet
+469,Edo,INQ,0,1,2025,South South,Internet
+470,Edo,21ST CENT,0,1,2025,South South,Internet
+471,Edo,SMILE,7448,1,2025,South South,Internet
+472,Edo,NTEL,0,1,2025,South South,Internet
+473,Ekiti,MTN,987801,1,2025,South West,Internet
+474,Ekiti,GLO,121401,1,2025,South West,Internet
+475,Ekiti,AIRTEL,336204,1,2025,South West,Internet
+476,Ekiti,EMTS,227,1,2025,South West,Internet
+477,Ekiti,IPNX,0,1,2025,South West,Internet
+478,Ekiti,MTN FIXED,0,1,2025,South West,Internet
+479,Ekiti,INQ,0,1,2025,South West,Internet
+480,Ekiti,21ST CENT,0,1,2025,South West,Internet
+481,Ekiti,SMILE,0,1,2025,South West,Internet
+482,Ekiti,NTEL,0,1,2025,South West,Internet
+483,Enugu,MTN,1696464,1,2025,South East,Internet
+484,Enugu,GLO,331644,1,2025,South East,Internet
+485,Enugu,AIRTEL,839844,1,2025,South East,Internet
+486,Enugu,EMTS,23144,1,2025,South East,Internet
+487,Enugu,IPNX,0,1,2025,South East,Internet
+488,Enugu,MTN FIXED,111,1,2025,South East,Internet
+489,Enugu,INQ,0,1,2025,South East,Internet
+490,Enugu,21ST CENT,0,1,2025,South East,Internet
+491,Enugu,SMILE,0,1,2025,South East,Internet
+492,Enugu,NTEL,0,1,2025,South East,Internet
+493,Fct,MTN,3332418,1,2025,North Central,Internet
+494,Fct,GLO,783208,1,2025,North Central,Internet
+495,Fct,AIRTEL,1994550,1,2025,North Central,Internet
+496,Fct,EMTS,186963,1,2025,North Central,Internet
+497,Fct,IPNX,0,1,2025,North Central,Internet
+498,Fct,MTN FIXED,5877,1,2025,North Central,Internet
+499,Fct,INQ,0,1,2025,North Central,Internet
+500,Fct,21ST CENT,54,1,2025,North Central,Internet
+501,Fct,SMILE,18156,1,2025,North Central,Internet
+502,Fct,NTEL,0,1,2025,North Central,Internet
+503,Gombe,MTN,1017446,1,2025,North East,Internet
+504,Gombe,GLO,64636,1,2025,North East,Internet
+505,Gombe,AIRTEL,749009,1,2025,North East,Internet
+506,Gombe,EMTS,10245,1,2025,North East,Internet
+507,Gombe,IPNX,0,1,2025,North East,Internet
+508,Gombe,MTN FIXED,0,1,2025,North East,Internet
+509,Gombe,INQ,0,1,2025,North East,Internet
+510,Gombe,21ST CENT,0,1,2025,North East,Internet
+511,Gombe,SMILE,0,1,2025,North East,Internet
+512,Gombe,NTEL,0,1,2025,North East,Internet
+513,Imo,MTN,2101830,1,2025,South East,Internet
+514,Imo,GLO,185065,1,2025,South East,Internet
+515,Imo,AIRTEL,882495,1,2025,South East,Internet
+516,Imo,EMTS,23609,1,2025,South East,Internet
+517,Imo,IPNX,0,1,2025,South East,Internet
+518,Imo,MTN FIXED,30,1,2025,South East,Internet
+519,Imo,INQ,0,1,2025,South East,Internet
+520,Imo,21ST CENT,0,1,2025,South East,Internet
+521,Imo,SMILE,0,1,2025,South East,Internet
+522,Imo,NTEL,0,1,2025,South East,Internet
+523,Jigawa,MTN,1188142,1,2025,North West,Internet
+524,Jigawa,GLO,85566,1,2025,North West,Internet
+525,Jigawa,AIRTEL,956502,1,2025,North West,Internet
+526,Jigawa,EMTS,643,1,2025,North West,Internet
+527,Jigawa,IPNX,0,1,2025,North West,Internet
+528,Jigawa,MTN FIXED,0,1,2025,North West,Internet
+529,Jigawa,INQ,0,1,2025,North West,Internet
+530,Jigawa,21ST CENT,0,1,2025,North West,Internet
+531,Jigawa,SMILE,0,1,2025,North West,Internet
+532,Jigawa,NTEL,0,1,2025,North West,Internet
+533,Kaduna,MTN,3178756,1,2025,North West,Internet
+534,Kaduna,GLO,520591,1,2025,North West,Internet
+535,Kaduna,AIRTEL,2544690,1,2025,North West,Internet
+536,Kaduna,EMTS,75860,1,2025,North West,Internet
+537,Kaduna,IPNX,0,1,2025,North West,Internet
+538,Kaduna,MTN FIXED,240,1,2025,North West,Internet
+539,Kaduna,INQ,0,1,2025,North West,Internet
+540,Kaduna,21ST CENT,0,1,2025,North West,Internet
+541,Kaduna,SMILE,56475,1,2025,North West,Internet
+542,Kaduna,NTEL,0,1,2025,North West,Internet
+543,Kano,MTN,4589451,1,2025,North West,Internet
+544,Kano,GLO,527580,1,2025,North West,Internet
+545,Kano,AIRTEL,3564891,1,2025,North West,Internet
+546,Kano,EMTS,75029,1,2025,North West,Internet
+547,Kano,IPNX,0,1,2025,North West,Internet
+548,Kano,MTN FIXED,0,1,2025,North West,Internet
+549,Kano,INQ,0,1,2025,North West,Internet
+550,Kano,21ST CENT,0,1,2025,North West,Internet
+551,Kano,SMILE,26718,1,2025,North West,Internet
+552,Kano,NTEL,0,1,2025,North West,Internet
+553,Katsina,MTN,2110913,1,2025,North West,Internet
+554,Katsina,GLO,177002,1,2025,North West,Internet
+555,Katsina,AIRTEL,1263194,1,2025,North West,Internet
+556,Katsina,EMTS,9520,1,2025,North West,Internet
+557,Katsina,IPNX,0,1,2025,North West,Internet
+558,Katsina,MTN FIXED,0,1,2025,North West,Internet
+559,Katsina,INQ,0,1,2025,North West,Internet
+560,Katsina,21ST CENT,0,1,2025,North West,Internet
+561,Katsina,SMILE,0,1,2025,North West,Internet
+562,Katsina,NTEL,0,1,2025,North West,Internet
+563,Kebbi,MTN,1280342,1,2025,North West,Internet
+564,Kebbi,GLO,82975,1,2025,North West,Internet
+565,Kebbi,AIRTEL,730438,1,2025,North West,Internet
+566,Kebbi,EMTS,935,1,2025,North West,Internet
+567,Kebbi,IPNX,0,1,2025,North West,Internet
+568,Kebbi,MTN FIXED,0,1,2025,North West,Internet
+569,Kebbi,INQ,0,1,2025,North West,Internet
+570,Kebbi,21ST CENT,0,1,2025,North West,Internet
+571,Kebbi,SMILE,0,1,2025,North West,Internet
+572,Kebbi,NTEL,0,1,2025,North West,Internet
+573,Kogi,MTN,1295887,1,2025,North Central,Internet
+574,Kogi,GLO,490467,1,2025,North Central,Internet
+575,Kogi,AIRTEL,548915,1,2025,North Central,Internet
+576,Kogi,EMTS,0,1,2025,North Central,Internet
+577,Kogi,IPNX,0,1,2025,North Central,Internet
+578,Kogi,MTN FIXED,0,1,2025,North Central,Internet
+579,Kogi,INQ,0,1,2025,North Central,Internet
+580,Kogi,21ST CENT,0,1,2025,North Central,Internet
+581,Kogi,SMILE,0,1,2025,North Central,Internet
+582,Kogi,NTEL,0,1,2025,North Central,Internet
+583,Kwara,MTN,1842081,1,2025,North Central,Internet
+584,Kwara,GLO,428877,1,2025,North Central,Internet
+585,Kwara,AIRTEL,896163,1,2025,North Central,Internet
+586,Kwara,EMTS,33792,1,2025,North Central,Internet
+587,Kwara,IPNX,0,1,2025,North Central,Internet
+588,Kwara,MTN FIXED,263,1,2025,North Central,Internet
+589,Kwara,INQ,0,1,2025,North Central,Internet
+590,Kwara,21ST CENT,0,1,2025,North Central,Internet
+591,Kwara,SMILE,0,1,2025,North Central,Internet
+592,Kwara,NTEL,0,1,2025,North Central,Internet
+593,Lagos,MTN,7986075,1,2025,South West,Internet
+594,Lagos,GLO,3032994,1,2025,South West,Internet
+595,Lagos,AIRTEL,5832401,1,2025,South West,Internet
+596,Lagos,EMTS,733018,1,2025,South West,Internet
+597,Lagos,IPNX,0,1,2025,South West,Internet
+598,Lagos,MTN FIXED,5055,1,2025,South West,Internet
+599,Lagos,INQ,0,1,2025,South West,Internet
+600,Lagos,21ST CENT,2149,1,2025,South West,Internet
+601,Lagos,SMILE,39788,1,2025,South West,Internet
+602,Lagos,NTEL,0,1,2025,South West,Internet
+603,Nassarawa,MTN,1544969,1,2025,North Central,Internet
+604,Nassarawa,GLO,275620,1,2025,North Central,Internet
+605,Nassarawa,AIRTEL,1156679,1,2025,North Central,Internet
+606,Nassarawa,EMTS,16947,1,2025,North Central,Internet
+607,Nassarawa,IPNX,0,1,2025,North Central,Internet
+608,Nassarawa,MTN FIXED,0,1,2025,North Central,Internet
+609,Nassarawa,INQ,0,1,2025,North Central,Internet
+610,Nassarawa,21ST CENT,0,1,2025,North Central,Internet
+611,Nassarawa,SMILE,0,1,2025,North Central,Internet
+612,Nassarawa,NTEL,0,1,2025,North Central,Internet
+613,Niger,MTN,2418450,1,2025,North Central,Internet
+614,Niger,GLO,473716,1,2025,North Central,Internet
+615,Niger,AIRTEL,1378603,1,2025,North Central,Internet
+616,Niger,EMTS,19605,1,2025,North Central,Internet
+617,Niger,IPNX,0,1,2025,North Central,Internet
+618,Niger,MTN FIXED,0,1,2025,North Central,Internet
+619,Niger,INQ,0,1,2025,North Central,Internet
+620,Niger,21ST CENT,0,1,2025,North Central,Internet
+621,Niger,SMILE,0,1,2025,North Central,Internet
+622,Niger,NTEL,0,1,2025,North Central,Internet
+623,Ogun,MTN,4145078,1,2025,South West,Internet
+624,Ogun,GLO,918874,1,2025,South West,Internet
+625,Ogun,AIRTEL,3071040,1,2025,South West,Internet
+626,Ogun,EMTS,128031,1,2025,South West,Internet
+627,Ogun,IPNX,0,1,2025,South West,Internet
+628,Ogun,MTN FIXED,0,1,2025,South West,Internet
+629,Ogun,INQ,0,1,2025,South West,Internet
+630,Ogun,21ST CENT,0,1,2025,South West,Internet
+631,Ogun,SMILE,0,1,2025,South West,Internet
+632,Ogun,NTEL,0,1,2025,South West,Internet
+633,Ondo,MTN,1835893,1,2025,South West,Internet
+634,Ondo,GLO,558621,1,2025,South West,Internet
+635,Ondo,AIRTEL,636736,1,2025,South West,Internet
+636,Ondo,EMTS,1222,1,2025,South West,Internet
+637,Ondo,IPNX,0,1,2025,South West,Internet
+638,Ondo,MTN FIXED,0,1,2025,South West,Internet
+639,Ondo,INQ,0,1,2025,South West,Internet
+640,Ondo,21ST CENT,0,1,2025,South West,Internet
+641,Ondo,SMILE,0,1,2025,South West,Internet
+642,Ondo,NTEL,0,1,2025,South West,Internet
+643,Osun,MTN,2008806,1,2025,South West,Internet
+644,Osun,GLO,459135,1,2025,South West,Internet
+645,Osun,AIRTEL,829861,1,2025,South West,Internet
+646,Osun,EMTS,0,1,2025,South West,Internet
+647,Osun,IPNX,0,1,2025,South West,Internet
+648,Osun,MTN FIXED,0,1,2025,South West,Internet
+649,Osun,INQ,0,1,2025,South West,Internet
+650,Osun,21ST CENT,0,1,2025,South West,Internet
+651,Osun,SMILE,0,1,2025,South West,Internet
+652,Osun,NTEL,0,1,2025,South West,Internet
+653,Oyo,MTN,3057442,1,2025,South West,Internet
+654,Oyo,GLO,1084610,1,2025,South West,Internet
+655,Oyo,AIRTEL,2105280,1,2025,South West,Internet
+656,Oyo,EMTS,82734,1,2025,South West,Internet
+657,Oyo,IPNX,0,1,2025,South West,Internet
+658,Oyo,MTN FIXED,305,1,2025,South West,Internet
+659,Oyo,INQ,0,1,2025,South West,Internet
+660,Oyo,21ST CENT,0,1,2025,South West,Internet
+661,Oyo,SMILE,31003,1,2025,South West,Internet
+662,Oyo,NTEL,0,1,2025,South West,Internet
+663,Plateau,MTN,1667677,1,2025,North Central,Internet
+664,Plateau,GLO,183226,1,2025,North Central,Internet
+665,Plateau,AIRTEL,992897,1,2025,North Central,Internet
+666,Plateau,EMTS,21656,1,2025,North Central,Internet
+667,Plateau,IPNX,0,1,2025,North Central,Internet
+668,Plateau,MTN FIXED,0,1,2025,North Central,Internet
+669,Plateau,INQ,0,1,2025,North Central,Internet
+670,Plateau,21ST CENT,0,1,2025,North Central,Internet
+671,Plateau,SMILE,0,1,2025,North Central,Internet
+672,Plateau,NTEL,0,1,2025,North Central,Internet
+673,Rivers,MTN,2989195,1,2025,South South,Internet
+674,Rivers,GLO,529234,1,2025,South South,Internet
+675,Rivers,AIRTEL,1426324,1,2025,South South,Internet
+676,Rivers,EMTS,109748,1,2025,South South,Internet
+677,Rivers,IPNX,0,1,2025,South South,Internet
+678,Rivers,MTN FIXED,2128,1,2025,South South,Internet
+679,Rivers,INQ,0,1,2025,South South,Internet
+680,Rivers,21ST CENT,56,1,2025,South South,Internet
+681,Rivers,SMILE,16886,1,2025,South South,Internet
+682,Rivers,NTEL,0,1,2025,South South,Internet
+683,Sokoto,MTN,1297924,1,2025,North West,Internet
+684,Sokoto,GLO,189583,1,2025,North West,Internet
+685,Sokoto,AIRTEL,677100,1,2025,North West,Internet
+686,Sokoto,EMTS,23470,1,2025,North West,Internet
+687,Sokoto,IPNX,0,1,2025,North West,Internet
+688,Sokoto,MTN FIXED,0,1,2025,North West,Internet
+689,Sokoto,INQ,0,1,2025,North West,Internet
+690,Sokoto,21ST CENT,0,1,2025,North West,Internet
+691,Sokoto,SMILE,0,1,2025,North West,Internet
+692,Sokoto,NTEL,0,1,2025,North West,Internet
+693,Taraba,MTN,1230895,1,2025,North East,Internet
+694,Taraba,GLO,47902,1,2025,North East,Internet
+695,Taraba,AIRTEL,991558,1,2025,North East,Internet
+696,Taraba,EMTS,2139,1,2025,North East,Internet
+697,Taraba,IPNX,0,1,2025,North East,Internet
+698,Taraba,MTN FIXED,0,1,2025,North East,Internet
+699,Taraba,INQ,0,1,2025,North East,Internet
+700,Taraba,21ST CENT,0,1,2025,North East,Internet
+701,Taraba,SMILE,0,1,2025,North East,Internet
+702,Taraba,NTEL,0,1,2025,North East,Internet
+703,Yobe,MTN,1056916,1,2025,North East,Internet
+704,Yobe,GLO,30917,1,2025,North East,Internet
+705,Yobe,AIRTEL,972149,1,2025,North East,Internet
+706,Yobe,EMTS,0,1,2025,North East,Internet
+707,Yobe,IPNX,0,1,2025,North East,Internet
+708,Yobe,MTN FIXED,0,1,2025,North East,Internet
+709,Yobe,INQ,0,1,2025,North East,Internet
+710,Yobe,21ST CENT,0,1,2025,North East,Internet
+711,Yobe,SMILE,0,1,2025,North East,Internet
+712,Yobe,NTEL,0,1,2025,North East,Internet
+713,Zamfara,MTN,870226,1,2025,North West,Internet
+714,Zamfara,GLO,133298,1,2025,North West,Internet
+715,Zamfara,AIRTEL,675245,1,2025,North West,Internet
+716,Zamfara,EMTS,0,1,2025,North West,Internet
+717,Zamfara,IPNX,0,1,2025,North West,Internet
+718,Zamfara,MTN FIXED,0,1,2025,North West,Internet
+719,Zamfara,INQ,0,1,2025,North West,Internet
+720,Zamfara,21ST CENT,0,1,2025,North West,Internet
+721,Zamfara,SMILE,0,1,2025,North West,Internet
+722,Zamfara,NTEL,0,1,2025,North West,Internet
+723,Abia,MTN,1512270,2,2024,South East,Internet
+724,Abia,GLO,521545,2,2024,South East,Internet
+725,Abia,AIRTEL,772927,2,2024,South East,Internet
+726,Abia,EMTS,41765,2,2024,South East,Internet
+727,Abia,IPNX,0,2,2024,South East,Internet
+728,Abia,21ST CENT,0,2,2024,South East,Internet
+729,Abia,SMILE,0,2,2024,South East,Internet
+730,Abia,NTEL,0,2,2024,South East,Internet
+731,Adamawa,MTN,1375578,2,2024,North East,Internet
+732,Adamawa,GLO,871113,2,2024,North East,Internet
+733,Adamawa,AIRTEL,1098206,2,2024,North East,Internet
+734,Adamawa,EMTS,13725,2,2024,North East,Internet
+735,Adamawa,IPNX,0,2,2024,North East,Internet
+736,Adamawa,21ST CENT,0,2,2024,North East,Internet
+737,Adamawa,SMILE,0,2,2024,North East,Internet
+738,Adamawa,NTEL,0,2,2024,North East,Internet
+739,Akwa Ibom,MTN,1247275,2,2024,South South,Internet
+740,Akwa Ibom,GLO,112232,2,2024,South South,Internet
+741,Akwa Ibom,AIRTEL,938924,2,2024,South South,Internet
+742,Akwa Ibom,EMTS,30304,2,2024,South South,Internet
+743,Akwa Ibom,IPNX,0,2,2024,South South,Internet
+744,Akwa Ibom,21ST CENT,0,2,2024,South South,Internet
+745,Akwa Ibom,SMILE,0,2,2024,South South,Internet
+746,Akwa Ibom,NTEL,0,2,2024,South South,Internet
+747,Anambra,MTN,2428784,2,2024,South East,Internet
+748,Anambra,GLO,159185,2,2024,South East,Internet
+749,Anambra,AIRTEL,1089984,2,2024,South East,Internet
+750,Anambra,EMTS,49723,2,2024,South East,Internet
+751,Anambra,IPNX,0,2,2024,South East,Internet
+752,Anambra,21ST CENT,0,2,2024,South East,Internet
+753,Anambra,SMILE,9089,2,2024,South East,Internet
+754,Anambra,NTEL,0,2,2024,South East,Internet
+755,Bauchi,MTN,1629863,2,2024,North East,Internet
+756,Bauchi,GLO,280766,2,2024,North East,Internet
+757,Bauchi,AIRTEL,1255498,2,2024,North East,Internet
+758,Bauchi,EMTS,3914,2,2024,North East,Internet
+759,Bauchi,IPNX,0,2,2024,North East,Internet
+760,Bauchi,21ST CENT,0,2,2024,North East,Internet
+761,Bauchi,SMILE,0,2,2024,North East,Internet
+762,Bauchi,NTEL,0,2,2024,North East,Internet
+763,Bayelsa,MTN,504867,2,2024,South South,Internet
+764,Bayelsa,GLO,105853,2,2024,South South,Internet
+765,Bayelsa,AIRTEL,289684,2,2024,South South,Internet
+766,Bayelsa,EMTS,416,2,2024,South South,Internet
+767,Bayelsa,IPNX,0,2,2024,South South,Internet
+768,Bayelsa,21ST CENT,0,2,2024,South South,Internet
+769,Bayelsa,SMILE,0,2,2024,South South,Internet
+770,Bayelsa,NTEL,0,2,2024,South South,Internet
+771,Benue,MTN,1244558,2,2024,North Central,Internet
+772,Benue,GLO,170148,2,2024,North Central,Internet
+773,Benue,AIRTEL,1144157,2,2024,North Central,Internet
+774,Benue,EMTS,5875,2,2024,North Central,Internet
+775,Benue,IPNX,0,2,2024,North Central,Internet
+776,Benue,21ST CENT,0,2,2024,North Central,Internet
+777,Benue,SMILE,0,2,2024,North Central,Internet
+778,Benue,NTEL,0,2,2024,North Central,Internet
+779,Borno,MTN,1066991,2,2024,North East,Internet
+780,Borno,GLO,476334,2,2024,North East,Internet
+781,Borno,AIRTEL,1538214,2,2024,North East,Internet
+782,Borno,EMTS,19722,2,2024,North East,Internet
+783,Borno,IPNX,0,2,2024,North East,Internet
+784,Borno,21ST CENT,0,2,2024,North East,Internet
+785,Borno,SMILE,0,2,2024,North East,Internet
+786,Borno,NTEL,0,2,2024,North East,Internet
+787,Cross River,MTN,1027973,2,2024,South South,Internet
+788,Cross River,GLO,91306,2,2024,South South,Internet
+789,Cross River,AIRTEL,639224,2,2024,South South,Internet
+790,Cross River,EMTS,36198,2,2024,South South,Internet
+791,Cross River,IPNX,0,2,2024,South South,Internet
+792,Cross River,MTN FIXED,9,2,2024,South South,Internet
+793,Cross River,21ST CENT,0,2,2024,South South,Internet
+794,Cross River,SMILE,0,2,2024,South South,Internet
+795,Cross River,NTEL,0,2,2024,South South,Internet
+796,Delta,MTN,2657505,2,2024,South South,Internet
+797,Delta,GLO,153615,2,2024,South South,Internet
+798,Delta,AIRTEL,1621225,2,2024,South South,Internet
+799,Delta,EMTS,24962,2,2024,South South,Internet
+800,Delta,IPNX,0,2,2024,South South,Internet
+801,Delta,MTN FIXED,268,2,2024,South South,Internet
+802,Delta,21ST CENT,0,2,2024,South South,Internet
+803,Delta,SMILE,7975,2,2024,South South,Internet
+804,Delta,NTEL,0,2,2024,South South,Internet
+805,Ebonyi,MTN,645531,2,2024,South East,Internet
+806,Ebonyi,GLO,746226,2,2024,South East,Internet
+807,Ebonyi,AIRTEL,492815,2,2024,South East,Internet
+808,Ebonyi,IPNX,0,2,2024,South East,Internet
+809,Ebonyi,21ST CENT,0,2,2024,South East,Internet
+810,Ebonyi,SMILE,0,2,2024,South East,Internet
+811,Ebonyi,NTEL,0,2,2024,South East,Internet
+812,Edo,MTN,2199329,2,2024,South South,Internet
+813,Edo,GLO,65395,2,2024,South South,Internet
+814,Edo,AIRTEL,1142573,2,2024,South South,Internet
+815,Edo,EMTS,47926,2,2024,South South,Internet
+816,Edo,IPNX,0,2,2024,South South,Internet
+817,Edo,21ST CENT,0,2,2024,South South,Internet
+818,Edo,SMILE,12158,2,2024,South South,Internet
+819,Edo,NTEL,0,2,2024,South South,Internet
+820,Ekiti,MTN,968312,2,2024,South West,Internet
+821,Ekiti,GLO,1054527,2,2024,South West,Internet
+822,Ekiti,AIRTEL,308411,2,2024,South West,Internet
+823,Ekiti,EMTS,382,2,2024,South West,Internet
+824,Ekiti,IPNX,0,2,2024,South West,Internet
+825,Ekiti,21ST CENT,0,2,2024,South West,Internet
+826,Ekiti,SMILE,0,2,2024,South West,Internet
+827,Ekiti,NTEL,0,2,2024,South West,Internet
+828,Enugu,MTN,1566222,2,2024,South East,Internet
+829,Enugu,GLO,94131,2,2024,South East,Internet
+830,Enugu,AIRTEL,780437,2,2024,South East,Internet
+831,Enugu,EMTS,35657,2,2024,South East,Internet
+832,Enugu,IPNX,0,2,2024,South East,Internet
+833,Enugu,MTN FIXED,20,2,2024,South East,Internet
+834,Enugu,21ST CENT,0,2,2024,South East,Internet
+835,Enugu,SMILE,0,2,2024,South East,Internet
+836,Enugu,NTEL,0,2,2024,South East,Internet
+837,Fct,MTN,3131940,2,2024,North Central,Internet
+838,Fct,GLO,351349,2,2024,North Central,Internet
+839,Fct,AIRTEL,1749156,2,2024,North Central,Internet
+840,Fct,EMTS,257227,2,2024,North Central,Internet
+841,Fct,IPNX,0,2,2024,North Central,Internet
+842,Fct,MTN FIXED,1404,2,2024,North Central,Internet
+843,Fct,21ST CENT,54,2,2024,North Central,Internet
+844,Fct,SMILE,27935,2,2024,North Central,Internet
+845,Fct,NTEL,1279,2,2024,North Central,Internet
+846,Gombe,MTN,945158,2,2024,North East,Internet
+847,Gombe,GLO,87797,2,2024,North East,Internet
+848,Gombe,AIRTEL,670024,2,2024,North East,Internet
+849,Gombe,EMTS,17198,2,2024,North East,Internet
+850,Gombe,IPNX,0,2,2024,North East,Internet
+851,Gombe,21ST CENT,0,2,2024,North East,Internet
+852,Gombe,SMILE,0,2,2024,North East,Internet
+853,Gombe,NTEL,0,2,2024,North East,Internet
+854,Imo,MTN,1961023,2,2024,South East,Internet
+855,Imo,GLO,205230,2,2024,South East,Internet
+856,Imo,AIRTEL,786779,2,2024,South East,Internet
+857,Imo,EMTS,33898,2,2024,South East,Internet
+858,Imo,IPNX,0,2,2024,South East,Internet
+859,Imo,21ST CENT,0,2,2024,South East,Internet
+860,Imo,SMILE,0,2,2024,South East,Internet
+861,Imo,NTEL,0,2,2024,South East,Internet
+862,Jigawa,MTN,1138810,2,2024,North West,Internet
+863,Jigawa,GLO,68817,2,2024,North West,Internet
+864,Jigawa,AIRTEL,923969,2,2024,North West,Internet
+865,Jigawa,EMTS,3318,2,2024,North West,Internet
+866,Jigawa,IPNX,0,2,2024,North West,Internet
+867,Jigawa,21ST CENT,0,2,2024,North West,Internet
+868,Jigawa,SMILE,0,2,2024,North West,Internet
+869,Jigawa,NTEL,0,2,2024,North West,Internet
+870,Kaduna,MTN,3004206,2,2024,North West,Internet
+871,Kaduna,GLO,530191,2,2024,North West,Internet
+872,Kaduna,AIRTEL,2368469,2,2024,North West,Internet
+873,Kaduna,EMTS,118495,2,2024,North West,Internet
+874,Kaduna,IPNX,0,2,2024,North West,Internet
+875,Kaduna,MTN FIXED,145,2,2024,North West,Internet
+876,Kaduna,21ST CENT,0,2,2024,North West,Internet
+877,Kaduna,SMILE,56447,2,2024,North West,Internet
+878,Kaduna,NTEL,0,2,2024,North West,Internet
+879,Kano,MTN,4349500,2,2024,North West,Internet
+880,Kano,GLO,439171,2,2024,North West,Internet
+881,Kano,AIRTEL,3559277,2,2024,North West,Internet
+882,Kano,EMTS,148153,2,2024,North West,Internet
+883,Kano,IPNX,0,2,2024,North West,Internet
+884,Kano,21ST CENT,0,2,2024,North West,Internet
+885,Kano,SMILE,18047,2,2024,North West,Internet
+886,Kano,NTEL,0,2,2024,North West,Internet
+887,Katsina,MTN,2011571,2,2024,North West,Internet
+888,Katsina,GLO,182023,2,2024,North West,Internet
+889,Katsina,AIRTEL,1448681,2,2024,North West,Internet
+890,Katsina,EMTS,15794,2,2024,North West,Internet
+891,Katsina,IPNX,0,2,2024,North West,Internet
+892,Katsina,21ST CENT,0,2,2024,North West,Internet
+893,Katsina,SMILE,0,2,2024,North West,Internet
+894,Katsina,NTEL,0,2,2024,North West,Internet
+895,Kebbi,MTN,1156435,2,2024,North West,Internet
+896,Kebbi,GLO,89004,2,2024,North West,Internet
+897,Kebbi,AIRTEL,677215,2,2024,North West,Internet
+898,Kebbi,EMTS,3263,2,2024,North West,Internet
+899,Kebbi,IPNX,0,2,2024,North West,Internet
+900,Kebbi,21ST CENT,0,2,2024,North West,Internet
+901,Kebbi,SMILE,0,2,2024,North West,Internet
+902,Kebbi,NTEL,0,2,2024,North West,Internet
+903,Kogi,MTN,1213506,2,2024,North Central,Internet
+904,Kogi,GLO,507159,2,2024,North Central,Internet
+905,Kogi,AIRTEL,506120,2,2024,North Central,Internet
+906,Kogi,EMTS,1460,2,2024,North Central,Internet
+907,Kogi,IPNX,0,2,2024,North Central,Internet
+908,Kogi,21ST CENT,0,2,2024,North Central,Internet
+909,Kogi,SMILE,0,2,2024,North Central,Internet
+910,Kogi,NTEL,0,2,2024,North Central,Internet
+911,Kwara,MTN,1736898,2,2024,North Central,Internet
+912,Kwara,GLO,465565,2,2024,North Central,Internet
+913,Kwara,AIRTEL,906172,2,2024,North Central,Internet
+914,Kwara,EMTS,54335,2,2024,North Central,Internet
+915,Kwara,IPNX,0,2,2024,North Central,Internet
+916,Kwara,MTN FIXED,159,2,2024,North Central,Internet
+917,Kwara,21ST CENT,0,2,2024,North Central,Internet
+918,Kwara,SMILE,0,2,2024,North Central,Internet
+919,Kwara,NTEL,0,2,2024,North Central,Internet
+920,Lagos,MTN,7550894,2,2024,South West,Internet
+921,Lagos,GLO,3667251,2,2024,South West,Internet
+922,Lagos,AIRTEL,5433873,2,2024,South West,Internet
+923,Lagos,EMTS,1016577,2,2024,South West,Internet
+924,Lagos,IPNX,0,2,2024,South West,Internet
+925,Lagos,MTN FIXED,2205,2,2024,South West,Internet
+926,Lagos,21ST CENT,2149,2,2024,South West,Internet
+927,Lagos,SMILE,64412,2,2024,South West,Internet
+928,Lagos,NTEL,1907,2,2024,South West,Internet
+929,Nassarawa,MTN,1424156,2,2024,North Central,Internet
+930,Nassarawa,GLO,289952,2,2024,North Central,Internet
+931,Nassarawa,AIRTEL,1029245,2,2024,North Central,Internet
+932,Nassarawa,EMTS,34469,2,2024,North Central,Internet
+933,Nassarawa,IPNX,0,2,2024,North Central,Internet
+934,Nassarawa,21ST CENT,0,2,2024,North Central,Internet
+935,Nassarawa,SMILE,0,2,2024,North Central,Internet
+936,Nassarawa,NTEL,14,2,2024,North Central,Internet
+937,Niger,MTN,2102102,2,2024,North Central,Internet
+938,Niger,GLO,544070,2,2024,North Central,Internet
+939,Niger,AIRTEL,1194752,2,2024,North Central,Internet
+940,Niger,EMTS,36437,2,2024,North Central,Internet
+941,Niger,IPNX,0,2,2024,North Central,Internet
+942,Niger,21ST CENT,0,2,2024,North Central,Internet
+943,Niger,SMILE,0,2,2024,North Central,Internet
+944,Niger,NTEL,5,2,2024,North Central,Internet
+945,Ogun,MTN,3933077,2,2024,South West,Internet
+946,Ogun,GLO,882038,2,2024,South West,Internet
+947,Ogun,AIRTEL,2895268,2,2024,South West,Internet
+948,Ogun,EMTS,204064,2,2024,South West,Internet
+949,Ogun,IPNX,0,2,2024,South West,Internet
+950,Ogun,MTN FIXED,5,2,2024,South West,Internet
+951,Ogun,21ST CENT,0,2,2024,South West,Internet
+952,Ogun,SMILE,0,2,2024,South West,Internet
+953,Ogun,NTEL,39,2,2024,South West,Internet
+954,Ondo,MTN,1703889,2,2024,South West,Internet
+955,Ondo,GLO,547730,2,2024,South West,Internet
+956,Ondo,AIRTEL,559181,2,2024,South West,Internet
+957,Ondo,EMTS,1815,2,2024,South West,Internet
+958,Ondo,IPNX,0,2,2024,South West,Internet
+959,Ondo,21ST CENT,0,2,2024,South West,Internet
+960,Ondo,SMILE,0,2,2024,South West,Internet
+961,Ondo,NTEL,0,2,2024,South West,Internet
+962,Osun,MTN,1877889,2,2024,South West,Internet
+963,Osun,GLO,446774,2,2024,South West,Internet
+964,Osun,AIRTEL,826829,2,2024,South West,Internet
+965,Osun,IPNX,0,2,2024,South West,Internet
+966,Osun,21ST CENT,0,2,2024,South West,Internet
+967,Osun,SMILE,0,2,2024,South West,Internet
+968,Osun,NTEL,0,2,2024,South West,Internet
+969,Oyo,MTN,2864587,2,2024,South West,Internet
+970,Oyo,GLO,1155930,2,2024,South West,Internet
+971,Oyo,AIRTEL,2079804,2,2024,South West,Internet
+972,Oyo,EMTS,123652,2,2024,South West,Internet
+973,Oyo,IPNX,0,2,2024,South West,Internet
+974,Oyo,MTN FIXED,90,2,2024,South West,Internet
+975,Oyo,21ST CENT,0,2,2024,South West,Internet
+976,Oyo,SMILE,39566,2,2024,South West,Internet
+977,Oyo,NTEL,0,2,2024,South West,Internet
+978,Plateau,MTN,1584749,2,2024,North Central,Internet
+979,Plateau,GLO,202934,2,2024,North Central,Internet
+980,Plateau,AIRTEL,878212,2,2024,North Central,Internet
+981,Plateau,EMTS,30896,2,2024,North Central,Internet
+982,Plateau,IPNX,0,2,2024,North Central,Internet
+983,Plateau,21ST CENT,0,2,2024,North Central,Internet
+984,Plateau,SMILE,0,2,2024,North Central,Internet
+985,Plateau,NTEL,0,2,2024,North Central,Internet
+986,Rivers,MTN,2812257,2,2024,South South,Internet
+987,Rivers,GLO,569393,2,2024,South South,Internet
+988,Rivers,AIRTEL,1300545,2,2024,South South,Internet
+989,Rivers,EMTS,160194,2,2024,South South,Internet
+990,Rivers,IPNX,0,2,2024,South South,Internet
+991,Rivers,MTN FIXED,717,2,2024,South South,Internet
+992,Rivers,21ST CENT,56,2,2024,South South,Internet
+993,Rivers,SMILE,22880,2,2024,South South,Internet
+994,Rivers,NTEL,373,2,2024,South South,Internet
+995,Sokoto,MTN,1248516,2,2024,North West,Internet
+996,Sokoto,GLO,204715,2,2024,North West,Internet
+997,Sokoto,AIRTEL,670591,2,2024,North West,Internet
+998,Sokoto,EMTS,35712,2,2024,North West,Internet
+999,Sokoto,IPNX,0,2,2024,North West,Internet
+1000,Sokoto,21ST CENT,0,2,2024,North West,Internet
+1001,Sokoto,SMILE,0,2,2024,North West,Internet
+1002,Sokoto,NTEL,0,2,2024,North West,Internet
+1003,Taraba,MTN,1109774,2,2024,North East,Internet
+1004,Taraba,GLO,58627,2,2024,North East,Internet
+1005,Taraba,AIRTEL,915701,2,2024,North East,Internet
+1006,Taraba,EMTS,4261,2,2024,North East,Internet
+1007,Taraba,IPNX,0,2,2024,North East,Internet
+1008,Taraba,21ST CENT,0,2,2024,North East,Internet
+1009,Taraba,SMILE,0,2,2024,North East,Internet
+1010,Taraba,NTEL,0,2,2024,North East,Internet
+1011,Yobe,MTN,943847,2,2024,North East,Internet
+1012,Yobe,GLO,35210,2,2024,North East,Internet
+1013,Yobe,AIRTEL,934425,2,2024,North East,Internet
+1014,Yobe,IPNX,0,2,2024,North East,Internet
+1015,Yobe,21ST CENT,0,2,2024,North East,Internet
+1016,Yobe,SMILE,0,2,2024,North East,Internet
+1017,Yobe,NTEL,0,2,2024,North East,Internet
+1018,Zamfara,MTN,810189,2,2024,North West,Internet
+1019,Zamfara,GLO,114698,2,2024,North West,Internet
+1020,Zamfara,AIRTEL,664263,2,2024,North West,Internet
+1021,Zamfara,EMTS,1623,2,2024,North West,Internet
+1022,Zamfara,IPNX,0,2,2024,North West,Internet
+1023,Zamfara,21ST CENT,0,2,2024,North West,Internet
+1024,Zamfara,SMILE,0,2,2024,North West,Internet
+1025,Zamfara,NTEL,0,2,2024,North West,Internet
+1026,Abia,MTN,1613872,2,2025,South East,Internet
+1027,Abia,GLO,348425,2,2025,South East,Internet
+1028,Abia,AIRTEL,833176,2,2025,South East,Internet
+1029,Abia,EMTS,17957,2,2025,South East,Internet
+1030,Abia,IPNX,0,2,2025,South East,Internet
+1031,Abia,MTN FIXED,0,2,2025,South East,Internet
+1032,Abia,INQ,0,2,2025,South East,Internet
+1033,Abia,21ST CENT,0,2,2025,South East,Internet
+1034,Abia,SMILE,0,2,2025,South East,Internet
+1035,Abia,NTEL,0,2,2025,South East,Internet
+1036,Adamawa,MTN,1499490,2,2025,North East,Internet
+1037,Adamawa,GLO,85420,2,2025,North East,Internet
+1038,Adamawa,AIRTEL,1163243,2,2025,North East,Internet
+1039,Adamawa,EMTS,605,2,2025,North East,Internet
+1040,Adamawa,IPNX,0,2,2025,North East,Internet
+1041,Adamawa,MTN FIXED,0,2,2025,North East,Internet
+1042,Adamawa,INQ,0,2,2025,North East,Internet
+1043,Adamawa,21ST CENT,0,2,2025,North East,Internet
+1044,Adamawa,SMILE,0,2,2025,North East,Internet
+1045,Adamawa,NTEL,0,2,2025,North East,Internet
+1046,Akwa Ibom,MTN,1316725,2,2025,South South,Internet
+1047,Akwa Ibom,GLO,125738,2,2025,South South,Internet
+1048,Akwa Ibom,AIRTEL,952104,2,2025,South South,Internet
+1049,Akwa Ibom,EMTS,6886,2,2025,South South,Internet
+1050,Akwa Ibom,IPNX,0,2,2025,South South,Internet
+1051,Akwa Ibom,MTN FIXED,912,2,2025,South South,Internet
+1052,Akwa Ibom,INQ,0,2,2025,South South,Internet
+1053,Akwa Ibom,21ST CENT,0,2,2025,South South,Internet
+1054,Akwa Ibom,SMILE,0,2,2025,South South,Internet
+1055,Akwa Ibom,NTEL,0,2,2025,South South,Internet
+1056,Anambra,MTN,2614740,2,2025,South East,Internet
+1057,Anambra,GLO,255084,2,2025,South East,Internet
+1058,Anambra,AIRTEL,1229669,2,2025,South East,Internet
+1059,Anambra,EMTS,5997,2,2025,South East,Internet
+1060,Anambra,IPNX,0,2,2025,South East,Internet
+1061,Anambra,MTN FIXED,1491,2,2025,South East,Internet
+1062,Anambra,INQ,0,2,2025,South East,Internet
+1063,Anambra,21ST CENT,0,2,2025,South East,Internet
+1064,Anambra,SMILE,7161,2,2025,South East,Internet
+1065,Anambra,NTEL,0,2,2025,South East,Internet
+1066,Bauchi,MTN,1771375,2,2025,North East,Internet
+1067,Bauchi,GLO,89656,2,2025,North East,Internet
+1068,Bauchi,AIRTEL,1411554,2,2025,North East,Internet
+1069,Bauchi,EMTS,1368,2,2025,North East,Internet
+1070,Bauchi,IPNX,0,2,2025,North East,Internet
+1071,Bauchi,MTN FIXED,0,2,2025,North East,Internet
+1072,Bauchi,INQ,0,2,2025,North East,Internet
+1073,Bauchi,21ST CENT,0,2,2025,North East,Internet
+1074,Bauchi,SMILE,0,2,2025,North East,Internet
+1075,Bauchi,NTEL,0,2,2025,North East,Internet
+1076,Bayelsa,MTN,522817,2,2025,South South,Internet
+1077,Bayelsa,GLO,139376,2,2025,South South,Internet
+1078,Bayelsa,AIRTEL,308093,2,2025,South South,Internet
+1079,Bayelsa,EMTS,0,2,2025,South South,Internet
+1080,Bayelsa,IPNX,0,2,2025,South South,Internet
+1081,Bayelsa,MTN FIXED,0,2,2025,South South,Internet
+1082,Bayelsa,INQ,0,2,2025,South South,Internet
+1083,Bayelsa,21ST CENT,0,2,2025,South South,Internet
+1084,Bayelsa,SMILE,0,2,2025,South South,Internet
+1085,Bayelsa,NTEL,0,2,2025,South South,Internet
+1086,Benue,MTN,1333758,2,2025,North Central,Internet
+1087,Benue,GLO,302292,2,2025,North Central,Internet
+1088,Benue,AIRTEL,1236283,2,2025,North Central,Internet
+1089,Benue,EMTS,576,2,2025,North Central,Internet
+1090,Benue,IPNX,0,2,2025,North Central,Internet
+1091,Benue,MTN FIXED,0,2,2025,North Central,Internet
+1092,Benue,INQ,0,2,2025,North Central,Internet
+1093,Benue,21ST CENT,0,2,2025,North Central,Internet
+1094,Benue,SMILE,0,2,2025,North Central,Internet
+1095,Benue,NTEL,0,2,2025,North Central,Internet
+1096,Borno,MTN,1149390,2,2025,North East,Internet
+1097,Borno,GLO,62796,2,2025,North East,Internet
+1098,Borno,AIRTEL,1602795,2,2025,North East,Internet
+1099,Borno,EMTS,6790,2,2025,North East,Internet
+1100,Borno,IPNX,0,2,2025,North East,Internet
+1101,Borno,MTN FIXED,0,2,2025,North East,Internet
+1102,Borno,INQ,0,2,2025,North East,Internet
+1103,Borno,21ST CENT,0,2,2025,North East,Internet
+1104,Borno,SMILE,0,2,2025,North East,Internet
+1105,Borno,NTEL,0,2,2025,North East,Internet
+1106,Cross River,MTN,1176584,2,2025,South South,Internet
+1107,Cross River,GLO,114800,2,2025,South South,Internet
+1108,Cross River,AIRTEL,691839,2,2025,South South,Internet
+1109,Cross River,EMTS,8024,2,2025,South South,Internet
+1110,Cross River,IPNX,0,2,2025,South South,Internet
+1111,Cross River,MTN FIXED,266,2,2025,South South,Internet
+1112,Cross River,INQ,0,2,2025,South South,Internet
+1113,Cross River,21ST CENT,0,2,2025,South South,Internet
+1114,Cross River,SMILE,0,2,2025,South South,Internet
+1115,Cross River,NTEL,0,2,2025,South South,Internet
+1116,Delta,MTN,2890842,2,2025,South South,Internet
+1117,Delta,GLO,732555,2,2025,South South,Internet
+1118,Delta,AIRTEL,1690288,2,2025,South South,Internet
+1119,Delta,EMTS,3550,2,2025,South South,Internet
+1120,Delta,IPNX,0,2,2025,South South,Internet
+1121,Delta,MTN FIXED,355,2,2025,South South,Internet
+1122,Delta,INQ,0,2,2025,South South,Internet
+1123,Delta,21ST CENT,0,2,2025,South South,Internet
+1124,Delta,SMILE,5078,2,2025,South South,Internet
+1125,Delta,NTEL,0,2,2025,South South,Internet
+1126,Ebonyi,MTN,689453,2,2025,South East,Internet
+1127,Ebonyi,GLO,54151,2,2025,South East,Internet
+1128,Ebonyi,AIRTEL,545355,2,2025,South East,Internet
+1129,Ebonyi,EMTS,1,2,2025,South East,Internet
+1130,Ebonyi,IPNX,0,2,2025,South East,Internet
+1131,Ebonyi,MTN FIXED,0,2,2025,South East,Internet
+1132,Ebonyi,INQ,0,2,2025,South East,Internet
+1133,Ebonyi,21ST CENT,0,2,2025,South East,Internet
+1134,Ebonyi,SMILE,0,2,2025,South East,Internet
+1135,Ebonyi,NTEL,0,2,2025,South East,Internet
+1136,Edo,MTN,2416646,2,2025,South South,Internet
+1137,Edo,GLO,1011785,2,2025,South South,Internet
+1138,Edo,AIRTEL,1238074,2,2025,South South,Internet
+1139,Edo,EMTS,15482,2,2025,South South,Internet
+1140,Edo,IPNX,0,2,2025,South South,Internet
+1141,Edo,MTN FIXED,0,2,2025,South South,Internet
+1142,Edo,INQ,0,2,2025,South South,Internet
+1143,Edo,21ST CENT,0,2,2025,South South,Internet
+1144,Edo,SMILE,7305,2,2025,South South,Internet
+1145,Edo,NTEL,0,2,2025,South South,Internet
+1146,Ekiti,MTN,1009760,2,2025,South West,Internet
+1147,Ekiti,GLO,85817,2,2025,South West,Internet
+1148,Ekiti,AIRTEL,326568,2,2025,South West,Internet
+1149,Ekiti,EMTS,189,2,2025,South West,Internet
+1150,Ekiti,IPNX,0,2,2025,South West,Internet
+1151,Ekiti,MTN FIXED,0,2,2025,South West,Internet
+1152,Ekiti,INQ,0,2,2025,South West,Internet
+1153,Ekiti,21ST CENT,0,2,2025,South West,Internet
+1154,Ekiti,SMILE,0,2,2025,South West,Internet
+1155,Ekiti,NTEL,0,2,2025,South West,Internet
+1156,Enugu,MTN,1736092,2,2025,South East,Internet
+1157,Enugu,GLO,289952,2,2025,South East,Internet
+1158,Enugu,AIRTEL,872234,2,2025,South East,Internet
+1159,Enugu,EMTS,14257,2,2025,South East,Internet
+1160,Enugu,IPNX,0,2,2025,South East,Internet
+1161,Enugu,MTN FIXED,172,2,2025,South East,Internet
+1162,Enugu,INQ,0,2,2025,South East,Internet
+1163,Enugu,21ST CENT,0,2,2025,South East,Internet
+1164,Enugu,SMILE,0,2,2025,South East,Internet
+1165,Enugu,NTEL,0,2,2025,South East,Internet
+1166,Fct,MTN,3437455,2,2025,North Central,Internet
+1167,Fct,GLO,676769,2,2025,North Central,Internet
+1168,Fct,AIRTEL,1973896,2,2025,North Central,Internet
+1169,Fct,EMTS,140572,2,2025,North Central,Internet
+1170,Fct,IPNX,0,2,2025,North Central,Internet
+1171,Fct,MTN FIXED,9439,2,2025,North Central,Internet
+1172,Fct,INQ,0,2,2025,North Central,Internet
+1173,Fct,21ST CENT,14,2,2025,North Central,Internet
+1174,Fct,SMILE,18046,2,2025,North Central,Internet
+1175,Fct,NTEL,0,2,2025,North Central,Internet
+1176,Gombe,MTN,988204,2,2025,North East,Internet
+1177,Gombe,GLO,50148,2,2025,North East,Internet
+1178,Gombe,AIRTEL,814238,2,2025,North East,Internet
+1179,Gombe,EMTS,5175,2,2025,North East,Internet
+1180,Gombe,IPNX,0,2,2025,North East,Internet
+1181,Gombe,MTN FIXED,0,2,2025,North East,Internet
+1182,Gombe,INQ,0,2,2025,North East,Internet
+1183,Gombe,21ST CENT,0,2,2025,North East,Internet
+1184,Gombe,SMILE,0,2,2025,North East,Internet
+1185,Gombe,NTEL,0,2,2025,North East,Internet
+1186,Imo,MTN,2118058,2,2025,South East,Internet
+1187,Imo,GLO,165033,2,2025,South East,Internet
+1188,Imo,AIRTEL,889168,2,2025,South East,Internet
+1189,Imo,EMTS,13685,2,2025,South East,Internet
+1190,Imo,IPNX,0,2,2025,South East,Internet
+1191,Imo,MTN FIXED,26,2,2025,South East,Internet
+1192,Imo,INQ,0,2,2025,South East,Internet
+1193,Imo,21ST CENT,0,2,2025,South East,Internet
+1194,Imo,SMILE,0,2,2025,South East,Internet
+1195,Imo,NTEL,0,2,2025,South East,Internet
+1196,Jigawa,MTN,1202004,2,2025,North West,Internet
+1197,Jigawa,GLO,68676,2,2025,North West,Internet
+1198,Jigawa,AIRTEL,1017990,2,2025,North West,Internet
+1199,Jigawa,EMTS,50,2,2025,North West,Internet
+1200,Jigawa,IPNX,0,2,2025,North West,Internet
+1201,Jigawa,MTN FIXED,0,2,2025,North West,Internet
+1202,Jigawa,INQ,0,2,2025,North West,Internet
+1203,Jigawa,21ST CENT,0,2,2025,North West,Internet
+1204,Jigawa,SMILE,0,2,2025,North West,Internet
+1205,Jigawa,NTEL,0,2,2025,North West,Internet
+1206,Kaduna,MTN,3182522,2,2025,North West,Internet
+1207,Kaduna,GLO,410996,2,2025,North West,Internet
+1208,Kaduna,AIRTEL,2444058,2,2025,North West,Internet
+1209,Kaduna,EMTS,64089,2,2025,North West,Internet
+1210,Kaduna,IPNX,0,2,2025,North West,Internet
+1211,Kaduna,MTN FIXED,0,2,2025,North West,Internet
+1212,Kaduna,INQ,0,2,2025,North West,Internet
+1213,Kaduna,21ST CENT,0,2,2025,North West,Internet
+1214,Kaduna,SMILE,58480,2,2025,North West,Internet
+1215,Kaduna,NTEL,0,2,2025,North West,Internet
+1216,Kano,MTN,4670026,2,2025,North West,Internet
+1217,Kano,GLO,458313,2,2025,North West,Internet
+1218,Kano,AIRTEL,3687873,2,2025,North West,Internet
+1219,Kano,EMTS,52341,2,2025,North West,Internet
+1220,Kano,IPNX,0,2,2025,North West,Internet
+1221,Kano,MTN FIXED,0,2,2025,North West,Internet
+1222,Kano,INQ,0,2,2025,North West,Internet
+1223,Kano,21ST CENT,0,2,2025,North West,Internet
+1224,Kano,SMILE,27694,2,2025,North West,Internet
+1225,Kano,NTEL,0,2,2025,North West,Internet
+1226,Katsina,MTN,2058480,2,2025,North West,Internet
+1227,Katsina,GLO,127837,2,2025,North West,Internet
+1228,Katsina,AIRTEL,1553500,2,2025,North West,Internet
+1229,Katsina,EMTS,7486,2,2025,North West,Internet
+1230,Katsina,IPNX,0,2,2025,North West,Internet
+1231,Katsina,MTN FIXED,0,2,2025,North West,Internet
+1232,Katsina,INQ,0,2,2025,North West,Internet
+1233,Katsina,21ST CENT,0,2,2025,North West,Internet
+1234,Katsina,SMILE,0,2,2025,North West,Internet
+1235,Katsina,NTEL,0,2,2025,North West,Internet
+1236,Kebbi,MTN,1284125,2,2025,North West,Internet
+1237,Kebbi,GLO,55497,2,2025,North West,Internet
+1238,Kebbi,AIRTEL,540871,2,2025,North West,Internet
+1239,Kebbi,EMTS,530,2,2025,North West,Internet
+1240,Kebbi,IPNX,0,2,2025,North West,Internet
+1241,Kebbi,MTN FIXED,0,2,2025,North West,Internet
+1242,Kebbi,INQ,0,2,2025,North West,Internet
+1243,Kebbi,21ST CENT,0,2,2025,North West,Internet
+1244,Kebbi,SMILE,0,2,2025,North West,Internet
+1245,Kebbi,NTEL,0,2,2025,North West,Internet
+1246,Kogi,MTN,1287754,2,2025,North Central,Internet
+1247,Kogi,GLO,435835,2,2025,North Central,Internet
+1248,Kogi,AIRTEL,610936,2,2025,North Central,Internet
+1249,Kogi,EMTS,0,2,2025,North Central,Internet
+1250,Kogi,IPNX,0,2,2025,North Central,Internet
+1251,Kogi,MTN FIXED,0,2,2025,North Central,Internet
+1252,Kogi,INQ,0,2,2025,North Central,Internet
+1253,Kogi,21ST CENT,0,2,2025,North Central,Internet
+1254,Kogi,SMILE,0,2,2025,North Central,Internet
+1255,Kogi,NTEL,0,2,2025,North Central,Internet
+1256,Kwara,MTN,1852043,2,2025,North Central,Internet
+1257,Kwara,GLO,369778,2,2025,North Central,Internet
+1258,Kwara,AIRTEL,928814,2,2025,North Central,Internet
+1259,Kwara,EMTS,21289,2,2025,North Central,Internet
+1260,Kwara,IPNX,0,2,2025,North Central,Internet
+1261,Kwara,MTN FIXED,4,2,2025,North Central,Internet
+1262,Kwara,INQ,0,2,2025,North Central,Internet
+1263,Kwara,21ST CENT,0,2,2025,North Central,Internet
+1264,Kwara,SMILE,0,2,2025,North Central,Internet
+1265,Kwara,NTEL,0,2,2025,North Central,Internet
+1266,Lagos,MTN,8215300,2,2025,South West,Internet
+1267,Lagos,GLO,2955117,2,2025,South West,Internet
+1268,Lagos,AIRTEL,5873351,2,2025,South West,Internet
+1269,Lagos,EMTS,499188,2,2025,South West,Internet
+1270,Lagos,IPNX,0,2,2025,South West,Internet
+1271,Lagos,MTN FIXED,8751,2,2025,South West,Internet
+1272,Lagos,INQ,0,2,2025,South West,Internet
+1273,Lagos,21ST CENT,161,2,2025,South West,Internet
+1274,Lagos,SMILE,40046,2,2025,South West,Internet
+1275,Lagos,NTEL,0,2,2025,South West,Internet
+1276,Nassarawa,MTN,1555117,2,2025,North Central,Internet
+1277,Nassarawa,GLO,180781,2,2025,North Central,Internet
+1278,Nassarawa,AIRTEL,1151698,2,2025,North Central,Internet
+1279,Nassarawa,EMTS,9759,2,2025,North Central,Internet
+1280,Nassarawa,IPNX,0,2,2025,North Central,Internet
+1281,Nassarawa,MTN FIXED,0,2,2025,North Central,Internet
+1282,Nassarawa,INQ,0,2,2025,North Central,Internet
+1283,Nassarawa,21ST CENT,0,2,2025,North Central,Internet
+1284,Nassarawa,SMILE,0,2,2025,North Central,Internet
+1285,Nassarawa,NTEL,0,2,2025,North Central,Internet
+1286,Niger,MTN,2332853,2,2025,North Central,Internet
+1287,Niger,GLO,360844,2,2025,North Central,Internet
+1288,Niger,AIRTEL,1106646,2,2025,North Central,Internet
+1289,Niger,EMTS,6487,2,2025,North Central,Internet
+1290,Niger,IPNX,0,2,2025,North Central,Internet
+1291,Niger,MTN FIXED,0,2,2025,North Central,Internet
+1292,Niger,INQ,0,2,2025,North Central,Internet
+1293,Niger,21ST CENT,0,2,2025,North Central,Internet
+1294,Niger,SMILE,0,2,2025,North Central,Internet
+1295,Niger,NTEL,0,2,2025,North Central,Internet
+1296,Ogun,MTN,4445597,2,2025,South West,Internet
+1297,Ogun,GLO,852017,2,2025,South West,Internet
+1298,Ogun,AIRTEL,3103624,2,2025,South West,Internet
+1299,Ogun,EMTS,57666,2,2025,South West,Internet
+1300,Ogun,IPNX,0,2,2025,South West,Internet
+1301,Ogun,MTN FIXED,0,2,2025,South West,Internet
+1302,Ogun,INQ,0,2,2025,South West,Internet
+1303,Ogun,21ST CENT,0,2,2025,South West,Internet
+1304,Ogun,SMILE,0,2,2025,South West,Internet
+1305,Ogun,NTEL,0,2,2025,South West,Internet
+1306,Ondo,MTN,1837341,2,2025,South West,Internet
+1307,Ondo,GLO,481873,2,2025,South West,Internet
+1308,Ondo,AIRTEL,634106,2,2025,South West,Internet
+1309,Ondo,EMTS,1049,2,2025,South West,Internet
+1310,Ondo,IPNX,0,2,2025,South West,Internet
+1311,Ondo,MTN FIXED,0,2,2025,South West,Internet
+1312,Ondo,INQ,0,2,2025,South West,Internet
+1313,Ondo,21ST CENT,0,2,2025,South West,Internet
+1314,Ondo,SMILE,0,2,2025,South West,Internet
+1315,Ondo,NTEL,0,2,2025,South West,Internet
+1316,Osun,MTN,2017390,2,2025,South West,Internet
+1317,Osun,GLO,413242,2,2025,South West,Internet
+1318,Osun,AIRTEL,850496,2,2025,South West,Internet
+1319,Osun,EMTS,0,2,2025,South West,Internet
+1320,Osun,IPNX,0,2,2025,South West,Internet
+1321,Osun,MTN FIXED,0,2,2025,South West,Internet
+1322,Osun,INQ,0,2,2025,South West,Internet
+1323,Osun,21ST CENT,0,2,2025,South West,Internet
+1324,Osun,SMILE,0,2,2025,South West,Internet
+1325,Osun,NTEL,0,2,2025,South West,Internet
+1326,Oyo,MTN,3124087,2,2025,South West,Internet
+1327,Oyo,GLO,981457,2,2025,South West,Internet
+1328,Oyo,AIRTEL,2150610,2,2025,South West,Internet
+1329,Oyo,EMTS,0,2,2025,South West,Internet
+1330,Oyo,IPNX,0,2,2025,South West,Internet
+1331,Oyo,MTN FIXED,1026,2,2025,South West,Internet
+1332,Oyo,INQ,0,2,2025,South West,Internet
+1333,Oyo,21ST CENT,0,2,2025,South West,Internet
+1334,Oyo,SMILE,30914,2,2025,South West,Internet
+1335,Oyo,NTEL,0,2,2025,South West,Internet
+1336,Plateau,MTN,1683120,2,2025,North Central,Internet
+1337,Plateau,GLO,142073,2,2025,North Central,Internet
+1338,Plateau,AIRTEL,994199,2,2025,North Central,Internet
+1339,Plateau,EMTS,17749,2,2025,North Central,Internet
+1340,Plateau,IPNX,0,2,2025,North Central,Internet
+1341,Plateau,MTN FIXED,0,2,2025,North Central,Internet
+1342,Plateau,INQ,0,2,2025,North Central,Internet
+1343,Plateau,21ST CENT,0,2,2025,North Central,Internet
+1344,Plateau,SMILE,0,2,2025,North Central,Internet
+1345,Plateau,NTEL,0,2,2025,North Central,Internet
+1346,Rivers,MTN,3054119,2,2025,South South,Internet
+1347,Rivers,GLO,478545,2,2025,South South,Internet
+1348,Rivers,AIRTEL,1469684,2,2025,South South,Internet
+1349,Rivers,EMTS,86872,2,2025,South South,Internet
+1350,Rivers,IPNX,0,2,2025,South South,Internet
+1351,Rivers,MTN FIXED,4177,2,2025,South South,Internet
+1352,Rivers,INQ,0,2,2025,South South,Internet
+1353,Rivers,21ST CENT,0,2,2025,South South,Internet
+1354,Rivers,SMILE,17746,2,2025,South South,Internet
+1355,Rivers,NTEL,0,2,2025,South South,Internet
+1356,Sokoto,MTN,1290315,2,2025,North West,Internet
+1357,Sokoto,GLO,137927,2,2025,North West,Internet
+1358,Sokoto,AIRTEL,766593,2,2025,North West,Internet
+1359,Sokoto,EMTS,15294,2,2025,North West,Internet
+1360,Sokoto,IPNX,0,2,2025,North West,Internet
+1361,Sokoto,MTN FIXED,0,2,2025,North West,Internet
+1362,Sokoto,INQ,0,2,2025,North West,Internet
+1363,Sokoto,21ST CENT,0,2,2025,North West,Internet
+1364,Sokoto,SMILE,0,2,2025,North West,Internet
+1365,Sokoto,NTEL,0,2,2025,North West,Internet
+1366,Taraba,MTN,1211938,2,2025,North East,Internet
+1367,Taraba,GLO,32548,2,2025,North East,Internet
+1368,Taraba,AIRTEL,985901,2,2025,North East,Internet
+1369,Taraba,EMTS,811,2,2025,North East,Internet
+1370,Taraba,IPNX,0,2,2025,North East,Internet
+1371,Taraba,MTN FIXED,0,2,2025,North East,Internet
+1372,Taraba,INQ,0,2,2025,North East,Internet
+1373,Taraba,21ST CENT,0,2,2025,North East,Internet
+1374,Taraba,SMILE,0,2,2025,North East,Internet
+1375,Taraba,NTEL,0,2,2025,North East,Internet
+1376,Yobe,MTN,1049574,2,2025,North East,Internet
+1377,Yobe,GLO,22250,2,2025,North East,Internet
+1378,Yobe,AIRTEL,1005614,2,2025,North East,Internet
+1379,Yobe,EMTS,1,2,2025,North East,Internet
+1380,Yobe,IPNX,0,2,2025,North East,Internet
+1381,Yobe,MTN FIXED,0,2,2025,North East,Internet
+1382,Yobe,INQ,0,2,2025,North East,Internet
+1383,Yobe,21ST CENT,0,2,2025,North East,Internet
+1384,Yobe,SMILE,0,2,2025,North East,Internet
+1385,Yobe,NTEL,0,2,2025,North East,Internet
+1386,Zamfara,MTN,883354,2,2025,North West,Internet
+1387,Zamfara,GLO,92235,2,2025,North West,Internet
+1388,Zamfara,AIRTEL,727172,2,2025,North West,Internet
+1389,Zamfara,EMTS,0,2,2025,North West,Internet
+1390,Zamfara,IPNX,0,2,2025,North West,Internet
+1391,Zamfara,MTN FIXED,0,2,2025,North West,Internet
+1392,Zamfara,INQ,0,2,2025,North West,Internet
+1393,Zamfara,21ST CENT,0,2,2025,North West,Internet
+1394,Zamfara,SMILE,0,2,2025,North West,Internet
+1395,Zamfara,NTEL,0,2,2025,North West,Internet
+1396,Abia,MTN,1653721,3,2025,South East,Internet
+1397,Abia,GLO,349149,3,2025,South East,Internet
+1398,Abia,AIRTEL,870413,3,2025,South East,Internet
+1399,Abia,EMTS,0,3,2025,South East,Internet
+1400,Abia,IPNX,0,3,2025,South East,Internet
+1401,Abia,MTN FIXED,0,3,2025,South East,Internet
+1402,Abia,INQ,0,3,2025,South East,Internet
+1403,Abia,21ST CENT,0,3,2025,South East,Internet
+1404,Abia,SMILE,0,3,2025,South East,Internet
+1405,Adamawa,MTN,1458531,3,2025,North East,Internet
+1406,Adamawa,GLO,85597,3,2025,North East,Internet
+1407,Adamawa,AIRTEL,1095120,3,2025,North East,Internet
+1408,Adamawa,EMTS,0,3,2025,North East,Internet
+1409,Adamawa,IPNX,0,3,2025,North East,Internet
+1410,Adamawa,MTN FIXED,0,3,2025,North East,Internet
+1411,Adamawa,INQ,0,3,2025,North East,Internet
+1412,Adamawa,21ST CENT,0,3,2025,North East,Internet
+1413,Adamawa,SMILE,0,3,2025,North East,Internet
+1414,Akwa Ibom,MTN,1349200,3,2025,South South,Internet
+1415,Akwa Ibom,GLO,125999,3,2025,South South,Internet
+1416,Akwa Ibom,AIRTEL,943880,3,2025,South South,Internet
+1417,Akwa Ibom,EMTS,0,3,2025,South South,Internet
+1418,Akwa Ibom,IPNX,0,3,2025,South South,Internet
+1419,Akwa Ibom,MTN FIXED,1468,3,2025,South South,Internet
+1420,Akwa Ibom,INQ,0,3,2025,South South,Internet
+1421,Akwa Ibom,21ST CENT,0,3,2025,South South,Internet
+1422,Akwa Ibom,SMILE,0,3,2025,South South,Internet
+1423,Anambra,MTN,2778399,3,2025,South East,Internet
+1424,Anambra,GLO,255614,3,2025,South East,Internet
+1425,Anambra,AIRTEL,1233482,3,2025,South East,Internet
+1426,Anambra,EMTS,0,3,2025,South East,Internet
+1427,Anambra,IPNX,0,3,2025,South East,Internet
+1428,Anambra,MTN FIXED,3249,3,2025,South East,Internet
+1429,Anambra,INQ,0,3,2025,South East,Internet
+1430,Anambra,21ST CENT,0,3,2025,South East,Internet
+1431,Anambra,SMILE,7850,3,2025,South East,Internet
+1432,Bauchi,MTN,1770861,3,2025,North East,Internet
+1433,Bauchi,GLO,89843,3,2025,North East,Internet
+1434,Bauchi,AIRTEL,1343795,3,2025,North East,Internet
+1435,Bauchi,EMTS,0,3,2025,North East,Internet
+1436,Bauchi,IPNX,0,3,2025,North East,Internet
+1437,Bauchi,MTN FIXED,0,3,2025,North East,Internet
+1438,Bauchi,INQ,0,3,2025,North East,Internet
+1439,Bauchi,21ST CENT,0,3,2025,North East,Internet
+1440,Bauchi,SMILE,0,3,2025,North East,Internet
+1441,Bayelsa,MTN,524370,3,2025,South South,Internet
+1442,Bayelsa,GLO,139665,3,2025,South South,Internet
+1443,Bayelsa,AIRTEL,309071,3,2025,South South,Internet
+1444,Bayelsa,EMTS,0,3,2025,South South,Internet
+1445,Bayelsa,IPNX,0,3,2025,South South,Internet
+1446,Bayelsa,MTN FIXED,0,3,2025,South South,Internet
+1447,Bayelsa,INQ,0,3,2025,South South,Internet
+1448,Bayelsa,21ST CENT,0,3,2025,South South,Internet
+1449,Bayelsa,SMILE,0,3,2025,South South,Internet
+1450,Benue,MTN,1317549,3,2025,North Central,Internet
+1451,Benue,GLO,302920,3,2025,North Central,Internet
+1452,Benue,AIRTEL,1208969,3,2025,North Central,Internet
+1453,Benue,EMTS,0,3,2025,North Central,Internet
+1454,Benue,IPNX,0,3,2025,North Central,Internet
+1455,Benue,MTN FIXED,0,3,2025,North Central,Internet
+1456,Benue,INQ,0,3,2025,North Central,Internet
+1457,Benue,21ST CENT,0,3,2025,North Central,Internet
+1458,Benue,SMILE,0,3,2025,North Central,Internet
+1459,Borno,MTN,1145647,3,2025,North East,Internet
+1460,Borno,GLO,62927,3,2025,North East,Internet
+1461,Borno,AIRTEL,1517476,3,2025,North East,Internet
+1462,Borno,EMTS,0,3,2025,North East,Internet
+1463,Borno,IPNX,0,3,2025,North East,Internet
+1464,Borno,MTN FIXED,0,3,2025,North East,Internet
+1465,Borno,INQ,0,3,2025,North East,Internet
+1466,Borno,21ST CENT,0,3,2025,North East,Internet
+1467,Borno,SMILE,0,3,2025,North East,Internet
+1468,Cross River,MTN,1159551,3,2025,South South,Internet
+1469,Cross River,GLO,115039,3,2025,South South,Internet
+1470,Cross River,AIRTEL,683017,3,2025,South South,Internet
+1471,Cross River,EMTS,0,3,2025,South South,Internet
+1472,Cross River,IPNX,0,3,2025,South South,Internet
+1473,Cross River,MTN FIXED,375,3,2025,South South,Internet
+1474,Cross River,INQ,0,3,2025,South South,Internet
+1475,Cross River,21ST CENT,0,3,2025,South South,Internet
+1476,Cross River,SMILE,0,3,2025,South South,Internet
+1477,Delta,MTN,2908337,3,2025,South South,Internet
+1478,Delta,GLO,734077,3,2025,South South,Internet
+1479,Delta,AIRTEL,1714156,3,2025,South South,Internet
+1480,Delta,EMTS,0,3,2025,South South,Internet
+1481,Delta,IPNX,0,3,2025,South South,Internet
+1482,Delta,MTN FIXED,1242,3,2025,South South,Internet
+1483,Delta,INQ,0,3,2025,South South,Internet
+1484,Delta,21ST CENT,0,3,2025,South South,Internet
+1485,Delta,SMILE,5779,3,2025,South South,Internet
+1486,Ebonyi,MTN,700427,3,2025,South East,Internet
+1487,Ebonyi,GLO,54263,3,2025,South East,Internet
+1488,Ebonyi,AIRTEL,529846,3,2025,South East,Internet
+1489,Ebonyi,EMTS,0,3,2025,South East,Internet
+1490,Ebonyi,IPNX,0,3,2025,South East,Internet
+1491,Ebonyi,MTN FIXED,0,3,2025,South East,Internet
+1492,Ebonyi,INQ,0,3,2025,South East,Internet
+1493,Ebonyi,21ST CENT,0,3,2025,South East,Internet
+1494,Ebonyi,SMILE,0,3,2025,South East,Internet
+1495,Edo,MTN,2421756,3,2025,South South,Internet
+1496,Edo,GLO,1013887,3,2025,South South,Internet
+1497,Edo,AIRTEL,1240776,3,2025,South South,Internet
+1498,Edo,EMTS,0,3,2025,South South,Internet
+1499,Edo,IPNX,0,3,2025,South South,Internet
+1500,Edo,MTN FIXED,109,3,2025,South South,Internet
+1501,Edo,INQ,0,3,2025,South South,Internet
+1502,Edo,21ST CENT,0,3,2025,South South,Internet
+1503,Edo,SMILE,8446,3,2025,South South,Internet
+1504,Ekiti,MTN,990841,3,2025,South West,Internet
+1505,Ekiti,GLO,85996,3,2025,South West,Internet
+1506,Ekiti,AIRTEL,330285,3,2025,South West,Internet
+1507,Ekiti,EMTS,0,3,2025,South West,Internet
+1508,Ekiti,IPNX,0,3,2025,South West,Internet
+1509,Ekiti,MTN FIXED,0,3,2025,South West,Internet
+1510,Ekiti,INQ,0,3,2025,South West,Internet
+1511,Ekiti,21ST CENT,0,3,2025,South West,Internet
+1512,Ekiti,SMILE,0,3,2025,South West,Internet
+1513,Enugu,MTN,1827385,3,2025,South East,Internet
+1514,Enugu,GLO,290554,3,2025,South East,Internet
+1515,Enugu,AIRTEL,864514,3,2025,South East,Internet
+1516,Enugu,EMTS,0,3,2025,South East,Internet
+1517,Enugu,IPNX,0,3,2025,South East,Internet
+1518,Enugu,MTN FIXED,179,3,2025,South East,Internet
+1519,Enugu,INQ,0,3,2025,South East,Internet
+1520,Enugu,21ST CENT,0,3,2025,South East,Internet
+1521,Enugu,SMILE,0,3,2025,South East,Internet
+1522,Fct,MTN,3441782,3,2025,North Central,Internet
+1523,Fct,GLO,678175,3,2025,North Central,Internet
+1524,Fct,AIRTEL,2056136,3,2025,North Central,Internet
+1525,Fct,EMTS,0,3,2025,North Central,Internet
+1526,Fct,IPNX,0,3,2025,North Central,Internet
+1527,Fct,MTN FIXED,15225,3,2025,North Central,Internet
+1528,Fct,INQ,0,3,2025,North Central,Internet
+1529,Fct,21ST CENT,14,3,2025,North Central,Internet
+1530,Fct,SMILE,19690,3,2025,North Central,Internet
+1531,Gombe,MTN,959999,3,2025,North East,Internet
+1532,Gombe,GLO,50252,3,2025,North East,Internet
+1533,Gombe,AIRTEL,759853,3,2025,North East,Internet
+1534,Gombe,EMTS,0,3,2025,North East,Internet
+1535,Gombe,IPNX,0,3,2025,North East,Internet
+1536,Gombe,MTN FIXED,0,3,2025,North East,Internet
+1537,Gombe,INQ,0,3,2025,North East,Internet
+1538,Gombe,21ST CENT,0,3,2025,North East,Internet
+1539,Gombe,SMILE,0,3,2025,North East,Internet
+1540,Imo,MTN,2162824,3,2025,South East,Internet
+1541,Imo,GLO,165376,3,2025,South East,Internet
+1542,Imo,AIRTEL,907722,3,2025,South East,Internet
+1543,Imo,EMTS,0,3,2025,South East,Internet
+1544,Imo,IPNX,0,3,2025,South East,Internet
+1545,Imo,MTN FIXED,31,3,2025,South East,Internet
+1546,Imo,INQ,0,3,2025,South East,Internet
+1547,Imo,21ST CENT,0,3,2025,South East,Internet
+1548,Imo,SMILE,0,3,2025,South East,Internet
+1549,Jigawa,MTN,1195220,3,2025,North West,Internet
+1550,Jigawa,GLO,68819,3,2025,North West,Internet
+1551,Jigawa,AIRTEL,957774,3,2025,North West,Internet
+1552,Jigawa,EMTS,0,3,2025,North West,Internet
+1553,Jigawa,IPNX,0,3,2025,North West,Internet
+1554,Jigawa,MTN FIXED,0,3,2025,North West,Internet
+1555,Jigawa,INQ,0,3,2025,North West,Internet
+1556,Jigawa,21ST CENT,0,3,2025,North West,Internet
+1557,Jigawa,SMILE,0,3,2025,North West,Internet
+1558,Kaduna,MTN,3154176,3,2025,North West,Internet
+1559,Kaduna,GLO,411850,3,2025,North West,Internet
+1560,Kaduna,AIRTEL,2463071,3,2025,North West,Internet
+1561,Kaduna,EMTS,0,3,2025,North West,Internet
+1562,Kaduna,IPNX,0,3,2025,North West,Internet
+1563,Kaduna,MTN FIXED,410,3,2025,North West,Internet
+1564,Kaduna,INQ,0,3,2025,North West,Internet
+1565,Kaduna,21ST CENT,0,3,2025,North West,Internet
+1566,Kaduna,SMILE,61633,3,2025,North West,Internet
+1567,Kano,MTN,4754253,3,2025,North West,Internet
+1568,Kano,GLO,459265,3,2025,North West,Internet
+1569,Kano,AIRTEL,3411012,3,2025,North West,Internet
+1570,Kano,EMTS,0,3,2025,North West,Internet
+1571,Kano,IPNX,0,3,2025,North West,Internet
+1572,Kano,MTN FIXED,42,3,2025,North West,Internet
+1573,Kano,INQ,0,3,2025,North West,Internet
+1574,Kano,21ST CENT,0,3,2025,North West,Internet
+1575,Kano,SMILE,29780,3,2025,North West,Internet
+1576,Katsina,MTN,2067254,3,2025,North West,Internet
+1577,Katsina,GLO,128103,3,2025,North West,Internet
+1578,Katsina,AIRTEL,1480312,3,2025,North West,Internet
+1579,Katsina,EMTS,0,3,2025,North West,Internet
+1580,Katsina,IPNX,0,3,2025,North West,Internet
+1581,Katsina,MTN FIXED,0,3,2025,North West,Internet
+1582,Katsina,INQ,0,3,2025,North West,Internet
+1583,Katsina,21ST CENT,0,3,2025,North West,Internet
+1584,Katsina,SMILE,0,3,2025,North West,Internet
+1585,Kebbi,MTN,1271942,3,2025,North West,Internet
+1586,Kebbi,GLO,55612,3,2025,North West,Internet
+1587,Kebbi,AIRTEL,605567,3,2025,North West,Internet
+1588,Kebbi,EMTS,0,3,2025,North West,Internet
+1589,Kebbi,IPNX,0,3,2025,North West,Internet
+1590,Kebbi,MTN FIXED,0,3,2025,North West,Internet
+1591,Kebbi,INQ,0,3,2025,North West,Internet
+1592,Kebbi,21ST CENT,0,3,2025,North West,Internet
+1593,Kebbi,SMILE,0,3,2025,North West,Internet
+1594,Kogi,MTN,1259788,3,2025,North Central,Internet
+1595,Kogi,GLO,436740,3,2025,North Central,Internet
+1596,Kogi,AIRTEL,571246,3,2025,North Central,Internet
+1597,Kogi,EMTS,0,3,2025,North Central,Internet
+1598,Kogi,IPNX,0,3,2025,North Central,Internet
+1599,Kogi,MTN FIXED,0,3,2025,North Central,Internet
+1600,Kogi,INQ,0,3,2025,North Central,Internet
+1601,Kogi,21ST CENT,0,3,2025,North Central,Internet
+1602,Kogi,SMILE,0,3,2025,North Central,Internet
+1603,Kwara,MTN,1759591,3,2025,North Central,Internet
+1604,Kwara,GLO,370546,3,2025,North Central,Internet
+1605,Kwara,AIRTEL,864984,3,2025,North Central,Internet
+1606,Kwara,EMTS,0,3,2025,North Central,Internet
+1607,Kwara,IPNX,0,3,2025,North Central,Internet
+1608,Kwara,MTN FIXED,592,3,2025,North Central,Internet
+1609,Kwara,INQ,0,3,2025,North Central,Internet
+1610,Kwara,21ST CENT,0,3,2025,North Central,Internet
+1611,Kwara,SMILE,0,3,2025,North Central,Internet
+1612,Lagos,MTN,8708138,3,2025,South West,Internet
+1613,Lagos,GLO,2961257,3,2025,South West,Internet
+1614,Lagos,AIRTEL,5974676,3,2025,South West,Internet
+1615,Lagos,EMTS,0,3,2025,South West,Internet
+1616,Lagos,IPNX,0,3,2025,South West,Internet
+1617,Lagos,MTN FIXED,14304,3,2025,South West,Internet
+1618,Lagos,INQ,0,3,2025,South West,Internet
+1619,Lagos,21ST CENT,161,3,2025,South West,Internet
+1620,Lagos,SMILE,45073,3,2025,South West,Internet
+1621,Nassarawa,MTN,1536654,3,2025,North Central,Internet
+1622,Nassarawa,GLO,181157,3,2025,North Central,Internet
+1623,Nassarawa,AIRTEL,1107581,3,2025,North Central,Internet
+1624,Nassarawa,EMTS,0,3,2025,North Central,Internet
+1625,Nassarawa,IPNX,0,3,2025,North Central,Internet
+1626,Nassarawa,MTN FIXED,0,3,2025,North Central,Internet
+1627,Nassarawa,INQ,0,3,2025,North Central,Internet
+1628,Nassarawa,21ST CENT,0,3,2025,North Central,Internet
+1629,Nassarawa,SMILE,0,3,2025,North Central,Internet
+1630,Niger,MTN,2227143,3,2025,North Central,Internet
+1631,Niger,GLO,361593,3,2025,North Central,Internet
+1632,Niger,AIRTEL,1248516,3,2025,North Central,Internet
+1633,Niger,EMTS,0,3,2025,North Central,Internet
+1634,Niger,IPNX,0,3,2025,North Central,Internet
+1635,Niger,MTN FIXED,0,3,2025,North Central,Internet
+1636,Niger,INQ,0,3,2025,North Central,Internet
+1637,Niger,21ST CENT,0,3,2025,North Central,Internet
+1638,Niger,SMILE,0,3,2025,North Central,Internet
+1639,Ogun,MTN,4541733,3,2025,South West,Internet
+1640,Ogun,GLO,853787,3,2025,South West,Internet
+1641,Ogun,AIRTEL,3108636,3,2025,South West,Internet
+1642,Ogun,EMTS,0,3,2025,South West,Internet
+1643,Ogun,IPNX,0,3,2025,South West,Internet
+1644,Ogun,MTN FIXED,455,3,2025,South West,Internet
+1645,Ogun,INQ,0,3,2025,South West,Internet
+1646,Ogun,21ST CENT,0,3,2025,South West,Internet
+1647,Ogun,SMILE,0,3,2025,South West,Internet
+1648,Ondo,MTN,1881373,3,2025,South West,Internet
+1649,Ondo,GLO,482874,3,2025,South West,Internet
+1650,Ondo,AIRTEL,647722,3,2025,South West,Internet
+1651,Ondo,EMTS,0,3,2025,South West,Internet
+1652,Ondo,IPNX,0,3,2025,South West,Internet
+1653,Ondo,MTN FIXED,0,3,2025,South West,Internet
+1654,Ondo,INQ,0,3,2025,South West,Internet
+1655,Ondo,21ST CENT,0,3,2025,South West,Internet
+1656,Ondo,SMILE,0,3,2025,South West,Internet
+1657,Osun,MTN,2012472,3,2025,South West,Internet
+1658,Osun,GLO,414101,3,2025,South West,Internet
+1659,Osun,AIRTEL,817212,3,2025,South West,Internet
+1660,Osun,EMTS,0,3,2025,South West,Internet
+1661,Osun,IPNX,0,3,2025,South West,Internet
+1662,Osun,MTN FIXED,0,3,2025,South West,Internet
+1663,Osun,INQ,0,3,2025,South West,Internet
+1664,Osun,21ST CENT,0,3,2025,South West,Internet
+1665,Osun,SMILE,0,3,2025,South West,Internet
+1666,Oyo,MTN,3160018,3,2025,South West,Internet
+1667,Oyo,GLO,983496,3,2025,South West,Internet
+1668,Oyo,AIRTEL,2124655,3,2025,South West,Internet
+1669,Oyo,EMTS,0,3,2025,South West,Internet
+1670,Oyo,IPNX,0,3,2025,South West,Internet
+1671,Oyo,MTN FIXED,2083,3,2025,South West,Internet
+1672,Oyo,INQ,0,3,2025,South West,Internet
+1673,Oyo,21ST CENT,0,3,2025,South West,Internet
+1674,Oyo,SMILE,33108,3,2025,South West,Internet
+1675,Plateau,MTN,1639680,3,2025,North Central,Internet
+1676,Plateau,GLO,142368,3,2025,North Central,Internet
+1677,Plateau,AIRTEL,976806,3,2025,North Central,Internet
+1678,Plateau,EMTS,0,3,2025,North Central,Internet
+1679,Plateau,IPNX,0,3,2025,North Central,Internet
+1680,Plateau,MTN FIXED,0,3,2025,North Central,Internet
+1681,Plateau,INQ,0,3,2025,North Central,Internet
+1682,Plateau,21ST CENT,0,3,2025,North Central,Internet
+1683,Plateau,SMILE,0,3,2025,North Central,Internet
+1684,Rivers,MTN,3091892,3,2025,South South,Internet
+1685,Rivers,GLO,488558,3,2025,South South,Internet
+1686,Rivers,AIRTEL,1507623,3,2025,South South,Internet
+1687,Rivers,EMTS,0,3,2025,South South,Internet
+1688,Rivers,IPNX,0,3,2025,South South,Internet
+1689,Rivers,MTN FIXED,5731,3,2025,South South,Internet
+1690,Rivers,INQ,0,3,2025,South South,Internet
+1691,Rivers,21ST CENT,0,3,2025,South South,Internet
+1692,Rivers,SMILE,20007,3,2025,South South,Internet
+1693,Sokoto,MTN,1313254,3,2025,North West,Internet
+1694,Sokoto,GLO,138213,3,2025,North West,Internet
+1695,Sokoto,AIRTEL,711997,3,2025,North West,Internet
+1696,Sokoto,EMTS,0,3,2025,North West,Internet
+1697,Sokoto,IPNX,0,3,2025,North West,Internet
+1698,Sokoto,MTN FIXED,0,3,2025,North West,Internet
+1699,Sokoto,INQ,0,3,2025,North West,Internet
+1700,Sokoto,21ST CENT,0,3,2025,North West,Internet
+1701,Sokoto,SMILE,0,3,2025,North West,Internet
+1702,Taraba,MTN,1164380,3,2025,North East,Internet
+1703,Taraba,GLO,32616,3,2025,North East,Internet
+1704,Taraba,AIRTEL,942602,3,2025,North East,Internet
+1705,Taraba,EMTS,0,3,2025,North East,Internet
+1706,Taraba,IPNX,0,3,2025,North East,Internet
+1707,Taraba,MTN FIXED,0,3,2025,North East,Internet
+1708,Taraba,INQ,0,3,2025,North East,Internet
+1709,Taraba,21ST CENT,0,3,2025,North East,Internet
+1710,Taraba,SMILE,0,3,2025,North East,Internet
+1711,Yobe,MTN,1048578,3,2025,North East,Internet
+1712,Yobe,GLO,22296,3,2025,North East,Internet
+1713,Yobe,AIRTEL,954941,3,2025,North East,Internet
+1714,Yobe,EMTS,0,3,2025,North East,Internet
+1715,Yobe,IPNX,0,3,2025,North East,Internet
+1716,Yobe,MTN FIXED,0,3,2025,North East,Internet
+1717,Yobe,INQ,0,3,2025,North East,Internet
+1718,Yobe,21ST CENT,0,3,2025,North East,Internet
+1719,Yobe,SMILE,0,3,2025,North East,Internet
+1720,Zamfara,MTN,882052,3,2025,North West,Internet
+1721,Zamfara,GLO,92428,3,2025,North West,Internet
+1722,Zamfara,AIRTEL,603550,3,2025,North West,Internet
+1723,Zamfara,EMTS,0,3,2025,North West,Internet
+1724,Zamfara,IPNX,0,3,2025,North West,Internet
+1725,Zamfara,MTN FIXED,0,3,2025,North West,Internet
+1726,Zamfara,INQ,0,3,2025,North West,Internet
+1727,Zamfara,21ST CENT,0,3,2025,North West,Internet
+1728,Zamfara,SMILE,0,3,2025,North West,Internet
+1729,Abia,MTN,1558287,4,2024,South East,Internet
+1730,Abia,GLO,412850,4,2024,South East,Internet
+1731,Abia,AIRTEL,803877,4,2024,South East,Internet
+1732,Abia,EMTS,29822,4,2024,South East,Internet
+1733,Abia,IPNX,0,4,2024,South East,Internet
+1734,Abia,MTN FIXED,0,4,2024,South East,Internet
+1735,Abia,INQ,0,4,2024,South East,Internet
+1736,Abia,21ST CENT,0,4,2024,South East,Internet
+1737,Abia,SMILE,0,4,2024,South East,Internet
+1738,Abia,NTEL,0,4,2024,South East,Internet
+1739,Adamawa,MTN,1390100,4,2024,North East,Internet
+1740,Adamawa,GLO,887933,4,2024,North East,Internet
+1741,Adamawa,AIRTEL,1138300,4,2024,North East,Internet
+1742,Adamawa,EMTS,9974,4,2024,North East,Internet
+1743,Adamawa,IPNX,0,4,2024,North East,Internet
+1744,Adamawa,MTN FIXED,0,4,2024,North East,Internet
+1745,Adamawa,INQ,0,4,2024,North East,Internet
+1746,Adamawa,21ST CENT,0,4,2024,North East,Internet
+1747,Adamawa,SMILE,0,4,2024,North East,Internet
+1748,Adamawa,NTEL,0,4,2024,North East,Internet
+1749,Akwa Ibom,MTN,1236558,4,2024,South South,Internet
+1750,Akwa Ibom,GLO,113607,4,2024,South South,Internet
+1751,Akwa Ibom,AIRTEL,928258,4,2024,South South,Internet
+1752,Akwa Ibom,EMTS,22187,4,2024,South South,Internet
+1753,Akwa Ibom,IPNX,0,4,2024,South South,Internet
+1754,Akwa Ibom,MTN FIXED,162,4,2024,South South,Internet
+1755,Akwa Ibom,INQ,0,4,2024,South South,Internet
+1756,Akwa Ibom,21ST CENT,0,4,2024,South South,Internet
+1757,Akwa Ibom,SMILE,0,4,2024,South South,Internet
+1758,Akwa Ibom,NTEL,0,4,2024,South South,Internet
+1759,Anambra,MTN,2487110,4,2024,South East,Internet
+1760,Anambra,GLO,174254,4,2024,South East,Internet
+1761,Anambra,AIRTEL,1209661,4,2024,South East,Internet
+1762,Anambra,EMTS,35354,4,2024,South East,Internet
+1763,Anambra,IPNX,0,4,2024,South East,Internet
+1764,Anambra,MTN FIXED,30,4,2024,South East,Internet
+1765,Anambra,INQ,0,4,2024,South East,Internet
+1766,Anambra,21ST CENT,0,4,2024,South East,Internet
+1767,Anambra,SMILE,6999,4,2024,South East,Internet
+1768,Anambra,NTEL,0,4,2024,South East,Internet
+1769,Bauchi,MTN,1718015,4,2024,North East,Internet
+1770,Bauchi,GLO,299355,4,2024,North East,Internet
+1771,Bauchi,AIRTEL,1353176,4,2024,North East,Internet
+1772,Bauchi,EMTS,833,4,2024,North East,Internet
+1773,Bauchi,IPNX,0,4,2024,North East,Internet
+1774,Bauchi,MTN FIXED,0,4,2024,North East,Internet
+1775,Bauchi,INQ,0,4,2024,North East,Internet
+1776,Bauchi,21ST CENT,0,4,2024,North East,Internet
+1777,Bauchi,SMILE,0,4,2024,North East,Internet
+1778,Bauchi,NTEL,0,4,2024,North East,Internet
+1779,Bayelsa,MTN,500988,4,2024,South South,Internet
+1780,Bayelsa,GLO,113855,4,2024,South South,Internet
+1781,Bayelsa,AIRTEL,279193,4,2024,South South,Internet
+1782,Bayelsa,IPNX,0,4,2024,South South,Internet
+1783,Bayelsa,MTN FIXED,0,4,2024,South South,Internet
+1784,Bayelsa,INQ,0,4,2024,South South,Internet
+1785,Bayelsa,21ST CENT,0,4,2024,South South,Internet
+1786,Bayelsa,SMILE,0,4,2024,South South,Internet
+1787,Bayelsa,NTEL,0,4,2024,South South,Internet
+1788,Benue,MTN,1232882,4,2024,North Central,Internet
+1789,Benue,GLO,188748,4,2024,North Central,Internet
+1790,Benue,AIRTEL,1260656,4,2024,North Central,Internet
+1791,Benue,IPNX,0,4,2024,North Central,Internet
+1792,Benue,MTN FIXED,0,4,2024,North Central,Internet
+1793,Benue,INQ,0,4,2024,North Central,Internet
+1794,Benue,21ST CENT,0,4,2024,North Central,Internet
+1795,Benue,SMILE,0,4,2024,North Central,Internet
+1796,Benue,NTEL,0,4,2024,North Central,Internet
+1797,Borno,MTN,1058693,4,2024,North East,Internet
+1798,Borno,GLO,502828,4,2024,North East,Internet
+1799,Borno,AIRTEL,1475266,4,2024,North East,Internet
+1800,Borno,EMTS,17696,4,2024,North East,Internet
+1801,Borno,IPNX,0,4,2024,North East,Internet
+1802,Borno,MTN FIXED,0,4,2024,North East,Internet
+1803,Borno,INQ,0,4,2024,North East,Internet
+1804,Borno,21ST CENT,0,4,2024,North East,Internet
+1805,Borno,SMILE,0,4,2024,North East,Internet
+1806,Borno,NTEL,0,4,2024,North East,Internet
+1807,Cross River,MTN,1082240,4,2024,South South,Internet
+1808,Cross River,GLO,102219,4,2024,South South,Internet
+1809,Cross River,AIRTEL,658323,4,2024,South South,Internet
+1810,Cross River,EMTS,28891,4,2024,South South,Internet
+1811,Cross River,IPNX,0,4,2024,South South,Internet
+1812,Cross River,MTN FIXED,155,4,2024,South South,Internet
+1813,Cross River,INQ,0,4,2024,South South,Internet
+1814,Cross River,21ST CENT,0,4,2024,South South,Internet
+1815,Cross River,SMILE,0,4,2024,South South,Internet
+1816,Cross River,NTEL,0,4,2024,South South,Internet
+1817,Delta,MTN,2760694,4,2024,South South,Internet
+1818,Delta,GLO,173889,4,2024,South South,Internet
+1819,Delta,AIRTEL,1603787,4,2024,South South,Internet
+1820,Delta,EMTS,19567,4,2024,South South,Internet
+1821,Delta,IPNX,0,4,2024,South South,Internet
+1822,Delta,MTN FIXED,315,4,2024,South South,Internet
+1823,Delta,INQ,0,4,2024,South South,Internet
+1824,Delta,21ST CENT,0,4,2024,South South,Internet
+1825,Delta,SMILE,5417,4,2024,South South,Internet
+1826,Delta,NTEL,0,4,2024,South South,Internet
+1827,Ebonyi,MTN,625169,4,2024,South East,Internet
+1828,Ebonyi,GLO,783597,4,2024,South East,Internet
+1829,Ebonyi,AIRTEL,515441,4,2024,South East,Internet
+1830,Ebonyi,EMTS,1,4,2024,South East,Internet
+1831,Ebonyi,IPNX,0,4,2024,South East,Internet
+1832,Ebonyi,INQ,0,4,2024,South East,Internet
+1833,Ebonyi,21ST CENT,0,4,2024,South East,Internet
+1834,Ebonyi,SMILE,0,4,2024,South East,Internet
+1835,Ebonyi,NTEL,0,4,2024,South East,Internet
+1836,Edo,MTN,2266370,4,2024,South South,Internet
+1837,Edo,GLO,83476,4,2024,South South,Internet
+1838,Edo,AIRTEL,1160691,4,2024,South South,Internet
+1839,Edo,EMTS,40626,4,2024,South South,Internet
+1840,Edo,IPNX,0,4,2024,South South,Internet
+1841,Edo,INQ,0,4,2024,South South,Internet
+1842,Edo,21ST CENT,0,4,2024,South South,Internet
+1843,Edo,SMILE,7665,4,2024,South South,Internet
+1844,Edo,NTEL,0,4,2024,South South,Internet
+1845,Ekiti,MTN,970423,4,2024,South West,Internet
+1846,Ekiti,GLO,1081740,4,2024,South West,Internet
+1847,Ekiti,AIRTEL,286127,4,2024,South West,Internet
+1848,Ekiti,EMTS,266,4,2024,South West,Internet
+1849,Ekiti,IPNX,0,4,2024,South West,Internet
+1850,Ekiti,INQ,0,4,2024,South West,Internet
+1851,Ekiti,21ST CENT,0,4,2024,South West,Internet
+1852,Ekiti,SMILE,0,4,2024,South West,Internet
+1853,Ekiti,NTEL,0,4,2024,South West,Internet
+1854,Enugu,MTN,1622936,4,2024,South East,Internet
+1855,Enugu,GLO,168283,4,2024,South East,Internet
+1856,Enugu,AIRTEL,826792,4,2024,South East,Internet
+1857,Enugu,EMTS,28190,4,2024,South East,Internet
+1858,Enugu,IPNX,0,4,2024,South East,Internet
+1859,Enugu,MTN FIXED,98,4,2024,South East,Internet
+1860,Enugu,INQ,0,4,2024,South East,Internet
+1861,Enugu,21ST CENT,0,4,2024,South East,Internet
+1862,Enugu,SMILE,0,4,2024,South East,Internet
+1863,Enugu,NTEL,0,4,2024,South East,Internet
+1864,Fct,MTN,3210289,4,2024,North Central,Internet
+1865,Fct,GLO,368356,4,2024,North Central,Internet
+1866,Fct,AIRTEL,1795489,4,2024,North Central,Internet
+1867,Fct,EMTS,218492,4,2024,North Central,Internet
+1868,Fct,IPNX,0,4,2024,North Central,Internet
+1869,Fct,MTN FIXED,3767,4,2024,North Central,Internet
+1870,Fct,INQ,0,4,2024,North Central,Internet
+1871,Fct,21ST CENT,54,4,2024,North Central,Internet
+1872,Fct,SMILE,18825,4,2024,North Central,Internet
+1873,Fct,NTEL,0,4,2024,North Central,Internet
+1874,Gombe,MTN,951831,4,2024,North East,Internet
+1875,Gombe,GLO,86281,4,2024,North East,Internet
+1876,Gombe,AIRTEL,715772,4,2024,North East,Internet
+1877,Gombe,EMTS,12599,4,2024,North East,Internet
+1878,Gombe,IPNX,0,4,2024,North East,Internet
+1879,Gombe,INQ,0,4,2024,North East,Internet
+1880,Gombe,21ST CENT,0,4,2024,North East,Internet
+1881,Gombe,SMILE,0,4,2024,North East,Internet
+1882,Gombe,NTEL,0,4,2024,North East,Internet
+1883,Imo,MTN,1989475,4,2024,South East,Internet
+1884,Imo,GLO,220369,4,2024,South East,Internet
+1885,Imo,AIRTEL,889838,4,2024,South East,Internet
+1886,Imo,EMTS,28092,4,2024,South East,Internet
+1887,Imo,IPNX,0,4,2024,South East,Internet
+1888,Imo,MTN FIXED,34,4,2024,South East,Internet
+1889,Imo,INQ,0,4,2024,South East,Internet
+1890,Imo,21ST CENT,0,4,2024,South East,Internet
+1891,Imo,SMILE,0,4,2024,South East,Internet
+1892,Imo,NTEL,0,4,2024,South East,Internet
+1893,Jigawa,MTN,1153010,4,2024,North West,Internet
+1894,Jigawa,GLO,92306,4,2024,North West,Internet
+1895,Jigawa,AIRTEL,966568,4,2024,North West,Internet
+1896,Jigawa,EMTS,959,4,2024,North West,Internet
+1897,Jigawa,IPNX,0,4,2024,North West,Internet
+1898,Jigawa,INQ,0,4,2024,North West,Internet
+1899,Jigawa,21ST CENT,0,4,2024,North West,Internet
+1900,Jigawa,SMILE,0,4,2024,North West,Internet
+1901,Jigawa,NTEL,0,4,2024,North West,Internet
+1902,Kaduna,MTN,3017108,4,2024,North West,Internet
+1903,Kaduna,GLO,557385,4,2024,North West,Internet
+1904,Kaduna,AIRTEL,2532043,4,2024,North West,Internet
+1905,Kaduna,EMTS,93458,4,2024,North West,Internet
+1906,Kaduna,IPNX,0,4,2024,North West,Internet
+1907,Kaduna,MTN FIXED,215,4,2024,North West,Internet
+1908,Kaduna,INQ,0,4,2024,North West,Internet
+1909,Kaduna,21ST CENT,0,4,2024,North West,Internet
+1910,Kaduna,SMILE,55167,4,2024,North West,Internet
+1911,Kaduna,NTEL,0,4,2024,North West,Internet
+1912,Kano,MTN,4339573,4,2024,North West,Internet
+1913,Kano,GLO,522954,4,2024,North West,Internet
+1914,Kano,AIRTEL,3538533,4,2024,North West,Internet
+1915,Kano,EMTS,92402,4,2024,North West,Internet
+1916,Kano,IPNX,0,4,2024,North West,Internet
+1917,Kano,INQ,0,4,2024,North West,Internet
+1918,Kano,21ST CENT,0,4,2024,North West,Internet
+1919,Kano,SMILE,24832,4,2024,North West,Internet
+1920,Kano,NTEL,0,4,2024,North West,Internet
+1921,Katsina,MTN,2074380,4,2024,North West,Internet
+1922,Katsina,GLO,198978,4,2024,North West,Internet
+1923,Katsina,AIRTEL,1414693,4,2024,North West,Internet
+1924,Katsina,EMTS,11393,4,2024,North West,Internet
+1925,Katsina,IPNX,0,4,2024,North West,Internet
+1926,Katsina,INQ,0,4,2024,North West,Internet
+1927,Katsina,21ST CENT,0,4,2024,North West,Internet
+1928,Katsina,SMILE,0,4,2024,North West,Internet
+1929,Katsina,NTEL,0,4,2024,North West,Internet
+1930,Kebbi,MTN,1188231,4,2024,North West,Internet
+1931,Kebbi,GLO,109831,4,2024,North West,Internet
+1932,Kebbi,AIRTEL,698127,4,2024,North West,Internet
+1933,Kebbi,EMTS,1449,4,2024,North West,Internet
+1934,Kebbi,IPNX,0,4,2024,North West,Internet
+1935,Kebbi,INQ,0,4,2024,North West,Internet
+1936,Kebbi,21ST CENT,0,4,2024,North West,Internet
+1937,Kebbi,SMILE,0,4,2024,North West,Internet
+1938,Kebbi,NTEL,0,4,2024,North West,Internet
+1939,Kogi,MTN,1210934,4,2024,North Central,Internet
+1940,Kogi,GLO,543729,4,2024,North Central,Internet
+1941,Kogi,AIRTEL,544848,4,2024,North Central,Internet
+1942,Kogi,IPNX,0,4,2024,North Central,Internet
+1943,Kogi,INQ,0,4,2024,North Central,Internet
+1944,Kogi,21ST CENT,0,4,2024,North Central,Internet
+1945,Kogi,SMILE,0,4,2024,North Central,Internet
+1946,Kogi,NTEL,0,4,2024,North Central,Internet
+1947,Kwara,MTN,1745643,4,2024,North Central,Internet
+1948,Kwara,GLO,503751,4,2024,North Central,Internet
+1949,Kwara,AIRTEL,861344,4,2024,North Central,Internet
+1950,Kwara,EMTS,39859,4,2024,North Central,Internet
+1951,Kwara,IPNX,0,4,2024,North Central,Internet
+1952,Kwara,MTN FIXED,210,4,2024,North Central,Internet
+1953,Kwara,INQ,0,4,2024,North Central,Internet
+1954,Kwara,21ST CENT,0,4,2024,North Central,Internet
+1955,Kwara,SMILE,0,4,2024,North Central,Internet
+1956,Kwara,NTEL,0,4,2024,North Central,Internet
+1957,Lagos,MTN,7930563,4,2024,South West,Internet
+1958,Lagos,GLO,3250651,4,2024,South West,Internet
+1959,Lagos,AIRTEL,5549094,4,2024,South West,Internet
+1960,Lagos,EMTS,844749,4,2024,South West,Internet
+1961,Lagos,IPNX,0,4,2024,South West,Internet
+1962,Lagos,MTN FIXED,3809,4,2024,South West,Internet
+1963,Lagos,INQ,0,4,2024,South West,Internet
+1964,Lagos,21ST CENT,2149,4,2024,South West,Internet
+1965,Lagos,SMILE,41512,4,2024,South West,Internet
+1966,Lagos,NTEL,0,4,2024,South West,Internet
+1967,Nassarawa,MTN,1469797,4,2024,North Central,Internet
+1968,Nassarawa,GLO,330953,4,2024,North Central,Internet
+1969,Nassarawa,AIRTEL,1098199,4,2024,North Central,Internet
+1970,Nassarawa,EMTS,20590,4,2024,North Central,Internet
+1971,Nassarawa,IPNX,0,4,2024,North Central,Internet
+1972,Nassarawa,INQ,0,4,2024,North Central,Internet
+1973,Nassarawa,21ST CENT,0,4,2024,North Central,Internet
+1974,Nassarawa,SMILE,0,4,2024,North Central,Internet
+1975,Nassarawa,NTEL,0,4,2024,North Central,Internet
+1976,Niger,MTN,2211912,4,2024,North Central,Internet
+1977,Niger,GLO,578995,4,2024,North Central,Internet
+1978,Niger,AIRTEL,1359737,4,2024,North Central,Internet
+1979,Niger,EMTS,24254,4,2024,North Central,Internet
+1980,Niger,IPNX,0,4,2024,North Central,Internet
+1981,Niger,INQ,0,4,2024,North Central,Internet
+1982,Niger,21ST CENT,0,4,2024,North Central,Internet
+1983,Niger,SMILE,0,4,2024,North Central,Internet
+1984,Niger,NTEL,0,4,2024,North Central,Internet
+1985,Ogun,MTN,3795972,4,2024,South West,Internet
+1986,Ogun,GLO,973742,4,2024,South West,Internet
+1987,Ogun,AIRTEL,2981280,4,2024,South West,Internet
+1988,Ogun,EMTS,155966,4,2024,South West,Internet
+1989,Ogun,IPNX,0,4,2024,South West,Internet
+1990,Ogun,MTN FIXED,3,4,2024,South West,Internet
+1991,Ogun,INQ,0,4,2024,South West,Internet
+1992,Ogun,21ST CENT,0,4,2024,South West,Internet
+1993,Ogun,SMILE,0,4,2024,South West,Internet
+1994,Ogun,NTEL,0,4,2024,South West,Internet
+1995,Ondo,MTN,1751195,4,2024,South West,Internet
+1996,Ondo,GLO,625549,4,2024,South West,Internet
+1997,Ondo,AIRTEL,591703,4,2024,South West,Internet
+1998,Ondo,EMTS,1552,4,2024,South West,Internet
+1999,Ondo,IPNX,0,4,2024,South West,Internet
+2000,Ondo,INQ,0,4,2024,South West,Internet
+2001,Ondo,21ST CENT,0,4,2024,South West,Internet
+2002,Ondo,SMILE,0,4,2024,South West,Internet
+2003,Ondo,NTEL,0,4,2024,South West,Internet
+2004,Osun,MTN,1915060,4,2024,South West,Internet
+2005,Osun,GLO,526317,4,2024,South West,Internet
+2006,Osun,AIRTEL,783307,4,2024,South West,Internet
+2007,Osun,IPNX,0,4,2024,South West,Internet
+2008,Osun,INQ,0,4,2024,South West,Internet
+2009,Osun,21ST CENT,0,4,2024,South West,Internet
+2010,Osun,SMILE,0,4,2024,South West,Internet
+2011,Osun,NTEL,0,4,2024,South West,Internet
+2012,Oyo,MTN,2962572,4,2024,South West,Internet
+2013,Oyo,GLO,1211636,4,2024,South West,Internet
+2014,Oyo,AIRTEL,2040368,4,2024,South West,Internet
+2015,Oyo,EMTS,98996,4,2024,South West,Internet
+2016,Oyo,IPNX,0,4,2024,South West,Internet
+2017,Oyo,MTN FIXED,184,4,2024,South West,Internet
+2018,Oyo,INQ,0,4,2024,South West,Internet
+2019,Oyo,21ST CENT,0,4,2024,South West,Internet
+2020,Oyo,SMILE,31637,4,2024,South West,Internet
+2021,Oyo,NTEL,0,4,2024,South West,Internet
+2022,Plateau,MTN,1592395,4,2024,North Central,Internet
+2023,Plateau,GLO,234204,4,2024,North Central,Internet
+2024,Plateau,AIRTEL,974414,4,2024,North Central,Internet
+2025,Plateau,EMTS,25481,4,2024,North Central,Internet
+2026,Plateau,IPNX,0,4,2024,North Central,Internet
+2027,Plateau,INQ,0,4,2024,North Central,Internet
+2028,Plateau,21ST CENT,0,4,2024,North Central,Internet
+2029,Plateau,SMILE,0,4,2024,North Central,Internet
+2030,Plateau,NTEL,0,4,2024,North Central,Internet
+2031,Rivers,MTN,2902333,4,2024,South South,Internet
+2032,Rivers,GLO,590936,4,2024,South South,Internet
+2033,Rivers,AIRTEL,1342820,4,2024,South South,Internet
+2034,Rivers,EMTS,129343,4,2024,South South,Internet
+2035,Rivers,IPNX,0,4,2024,South South,Internet
+2036,Rivers,MTN FIXED,1628,4,2024,South South,Internet
+2037,Rivers,INQ,0,4,2024,South South,Internet
+2038,Rivers,21ST CENT,56,4,2024,South South,Internet
+2039,Rivers,SMILE,16511,4,2024,South South,Internet
+2040,Rivers,NTEL,0,4,2024,South South,Internet
+2041,Sokoto,MTN,1243473,4,2024,North West,Internet
+2042,Sokoto,GLO,224626,4,2024,North West,Internet
+2043,Sokoto,AIRTEL,624078,4,2024,North West,Internet
+2044,Sokoto,EMTS,27916,4,2024,North West,Internet
+2045,Sokoto,IPNX,0,4,2024,North West,Internet
+2046,Sokoto,MTN FIXED,0,4,2024,North West,Internet
+2047,Sokoto,INQ,0,4,2024,North West,Internet
+2048,Sokoto,21ST CENT,0,4,2024,North West,Internet
+2049,Sokoto,SMILE,0,4,2024,North West,Internet
+2050,Sokoto,NTEL,0,4,2024,North West,Internet
+2051,Taraba,MTN,1165309,4,2024,North East,Internet
+2052,Taraba,GLO,61046,4,2024,North East,Internet
+2053,Taraba,AIRTEL,993033,4,2024,North East,Internet
+2054,Taraba,EMTS,2843,4,2024,North East,Internet
+2055,Taraba,IPNX,0,4,2024,North East,Internet
+2056,Taraba,MTN FIXED,0,4,2024,North East,Internet
+2057,Taraba,INQ,0,4,2024,North East,Internet
+2058,Taraba,21ST CENT,0,4,2024,North East,Internet
+2059,Taraba,SMILE,0,4,2024,North East,Internet
+2060,Taraba,NTEL,0,4,2024,North East,Internet
+2061,Yobe,MTN,1003699,4,2024,North East,Internet
+2062,Yobe,GLO,37630,4,2024,North East,Internet
+2063,Yobe,AIRTEL,969078,4,2024,North East,Internet
+2064,Yobe,IPNX,0,4,2024,North East,Internet
+2065,Yobe,MTN FIXED,0,4,2024,North East,Internet
+2066,Yobe,INQ,0,4,2024,North East,Internet
+2067,Yobe,21ST CENT,0,4,2024,North East,Internet
+2068,Yobe,SMILE,0,4,2024,North East,Internet
+2069,Yobe,NTEL,0,4,2024,North East,Internet
+2070,Zamfara,MTN,886029,4,2024,North West,Internet
+2071,Zamfara,GLO,139571,4,2024,North West,Internet
+2072,Zamfara,AIRTEL,648847,4,2024,North West,Internet
+2073,Zamfara,EMTS,733,4,2024,North West,Internet
+2074,Zamfara,IPNX,0,4,2024,North West,Internet
+2075,Zamfara,MTN FIXED,0,4,2024,North West,Internet
+2076,Zamfara,INQ,0,4,2024,North West,Internet
+2077,Zamfara,21ST CENT,0,4,2024,North West,Internet
+2078,Zamfara,SMILE,0,4,2024,North West,Internet
+2079,Zamfara,NTEL,0,4,2024,North West,Internet
+2080,Abia,MTN,1692583,4,2025,South East,Internet
+2081,Abia,GLO,378792,4,2025,South East,Internet
+2082,Abia,AIRTEL,979370,4,2025,South East,Internet
+2083,Abia,EMTS,4348,4,2025,South East,Internet
+2084,Abia,IPNX,0,4,2025,South East,Internet
+2085,Abia,MTN FIXED,0,4,2025,South East,Internet
+2086,Abia,INQ,0,4,2025,South East,Internet
+2087,Abia,21ST CENT,0,4,2025,South East,Internet
+2088,Abia,NTEL,0,4,2025,South East,Internet
+2089,Adamawa,MTN,1543049,4,2025,North East,Internet
+2090,Adamawa,GLO,92864,4,2025,North East,Internet
+2091,Adamawa,AIRTEL,1236475,4,2025,North East,Internet
+2092,Adamawa,EMTS,2411,4,2025,North East,Internet
+2093,Adamawa,IPNX,0,4,2025,North East,Internet
+2094,Adamawa,MTN FIXED,14,4,2025,North East,Internet
+2095,Adamawa,INQ,0,4,2025,North East,Internet
+2096,Adamawa,21ST CENT,0,4,2025,North East,Internet
+2097,Adamawa,NTEL,0,4,2025,North East,Internet
+2098,Akwa Ibom,MTN,1402249,4,2025,South South,Internet
+2099,Akwa Ibom,GLO,136697,4,2025,South South,Internet
+2100,Akwa Ibom,AIRTEL,1009394,4,2025,South South,Internet
+2101,Akwa Ibom,EMTS,2494,4,2025,South South,Internet
+2102,Akwa Ibom,IPNX,0,4,2025,South South,Internet
+2103,Akwa Ibom,MTN FIXED,1530,4,2025,South South,Internet
+2104,Akwa Ibom,INQ,0,4,2025,South South,Internet
+2105,Akwa Ibom,21ST CENT,0,4,2025,South South,Internet
+2106,Akwa Ibom,NTEL,0,4,2025,South South,Internet
+2107,Anambra,MTN,2824163,4,2025,South East,Internet
+2108,Anambra,GLO,277315,4,2025,South East,Internet
+2109,Anambra,AIRTEL,1321310,4,2025,South East,Internet
+2110,Anambra,EMTS,6294,4,2025,South East,Internet
+2111,Anambra,IPNX,0,4,2025,South East,Internet
+2112,Anambra,MTN FIXED,4962,4,2025,South East,Internet
+2113,Anambra,INQ,0,4,2025,South East,Internet
+2114,Anambra,21ST CENT,0,4,2025,South East,Internet
+2115,Anambra,SMILE,7753,4,2025,South East,Internet
+2116,Anambra,NTEL,0,4,2025,South East,Internet
+2117,Bauchi,MTN,1848855,4,2025,North East,Internet
+2118,Bauchi,GLO,97470,4,2025,North East,Internet
+2119,Bauchi,AIRTEL,1499281,4,2025,North East,Internet
+2120,Bauchi,EMTS,2433,4,2025,North East,Internet
+2121,Bauchi,IPNX,0,4,2025,North East,Internet
+2122,Bauchi,MTN FIXED,0,4,2025,North East,Internet
+2123,Bauchi,INQ,0,4,2025,North East,Internet
+2124,Bauchi,21ST CENT,0,4,2025,North East,Internet
+2125,Bauchi,SMILE,0,4,2025,North East,Internet
+2126,Bauchi,NTEL,0,4,2025,North East,Internet
+2127,Bayelsa,MTN,533895,4,2025,South South,Internet
+2128,Bayelsa,GLO,151523,4,2025,South South,Internet
+2129,Bayelsa,AIRTEL,324317,4,2025,South South,Internet
+2130,Bayelsa,EMTS,317,4,2025,South South,Internet
+2131,Bayelsa,IPNX,0,4,2025,South South,Internet
+2132,Bayelsa,MTN FIXED,0,4,2025,South South,Internet
+2133,Bayelsa,INQ,0,4,2025,South South,Internet
+2134,Bayelsa,21ST CENT,0,4,2025,South South,Internet
+2135,Bayelsa,SMILE,0,4,2025,South South,Internet
+2136,Bayelsa,NTEL,0,4,2025,South South,Internet
+2137,Benue,MTN,1371260,4,2025,North Central,Internet
+2138,Benue,GLO,328638,4,2025,North Central,Internet
+2139,Benue,AIRTEL,1350231,4,2025,North Central,Internet
+2140,Benue,EMTS,1850,4,2025,North Central,Internet
+2141,Benue,IPNX,0,4,2025,North Central,Internet
+2142,Benue,MTN FIXED,0,4,2025,North Central,Internet
+2143,Benue,INQ,0,4,2025,North Central,Internet
+2144,Benue,21ST CENT,0,4,2025,North Central,Internet
+2145,Benue,SMILE,0,4,2025,North Central,Internet
+2146,Benue,NTEL,0,4,2025,North Central,Internet
+2147,Borno,MTN,1172960,4,2025,North East,Internet
+2148,Borno,GLO,68269,4,2025,North East,Internet
+2149,Borno,AIRTEL,1628320,4,2025,North East,Internet
+2150,Borno,EMTS,4496,4,2025,North East,Internet
+2151,Borno,IPNX,0,4,2025,North East,Internet
+2152,Borno,MTN FIXED,0,4,2025,North East,Internet
+2153,Borno,INQ,0,4,2025,North East,Internet
+2154,Borno,21ST CENT,0,4,2025,North East,Internet
+2155,Borno,SMILE,0,4,2025,North East,Internet
+2156,Borno,NTEL,0,4,2025,North East,Internet
+2157,Cross River,MTN,1213145,4,2025,South South,Internet
+2158,Cross River,GLO,124806,4,2025,South South,Internet
+2159,Cross River,AIRTEL,742274,4,2025,South South,Internet
+2160,Cross River,EMTS,4976,4,2025,South South,Internet
+2161,Cross River,IPNX,0,4,2025,South South,Internet
+2162,Cross River,MTN FIXED,430,4,2025,South South,Internet
+2163,Cross River,INQ,0,4,2025,South South,Internet
+2164,Cross River,21ST CENT,0,4,2025,South South,Internet
+2165,Cross River,SMILE,0,4,2025,South South,Internet
+2166,Cross River,NTEL,0,4,2025,South South,Internet
+2167,Delta,MTN,2978527,4,2025,South South,Internet
+2168,Delta,GLO,796401,4,2025,South South,Internet
+2169,Delta,AIRTEL,1771476,4,2025,South South,Internet
+2170,Delta,EMTS,3740,4,2025,South South,Internet
+2171,Delta,IPNX,0,4,2025,South South,Internet
+2172,Delta,MTN FIXED,2904,4,2025,South South,Internet
+2173,Delta,INQ,0,4,2025,South South,Internet
+2174,Delta,21ST CENT,0,4,2025,South South,Internet
+2175,Delta,SMILE,5697,4,2025,South South,Internet
+2176,Delta,NTEL,0,4,2025,South South,Internet
+2177,Ebonyi,MTN,695698,4,2025,South East,Internet
+2178,Ebonyi,GLO,58870,4,2025,South East,Internet
+2179,Ebonyi,AIRTEL,594830,4,2025,South East,Internet
+2180,Ebonyi,EMTS,713,4,2025,South East,Internet
+2181,Ebonyi,IPNX,0,4,2025,South East,Internet
+2182,Ebonyi,MTN FIXED,0,4,2025,South East,Internet
+2183,Ebonyi,INQ,0,4,2025,South East,Internet
+2184,Ebonyi,21ST CENT,0,4,2025,South East,Internet
+2185,Ebonyi,SMILE,0,4,2025,South East,Internet
+2186,Ebonyi,NTEL,0,4,2025,South East,Internet
+2187,Edo,MTN,2471242,4,2025,South South,Internet
+2188,Edo,GLO,1099967,4,2025,South South,Internet
+2189,Edo,AIRTEL,1269854,4,2025,South South,Internet
+2190,Edo,EMTS,6338,4,2025,South South,Internet
+2191,Edo,IPNX,0,4,2025,South South,Internet
+2192,Edo,MTN FIXED,1309,4,2025,South South,Internet
+2193,Edo,INQ,0,4,2025,South South,Internet
+2194,Edo,21ST CENT,0,4,2025,South South,Internet
+2195,Edo,SMILE,8313,4,2025,South South,Internet
+2196,Edo,NTEL,0,4,2025,South South,Internet
+2197,Ekiti,MTN,1015768,4,2025,South West,Internet
+2198,Ekiti,GLO,93297,4,2025,South West,Internet
+2199,Ekiti,AIRTEL,330122,4,2025,South West,Internet
+2200,Ekiti,EMTS,626,4,2025,South West,Internet
+2201,Ekiti,IPNX,0,4,2025,South West,Internet
+2202,Ekiti,MTN FIXED,0,4,2025,South West,Internet
+2203,Ekiti,INQ,0,4,2025,South West,Internet
+2204,Ekiti,21ST CENT,0,4,2025,South West,Internet
+2205,Ekiti,SMILE,0,4,2025,South West,Internet
+2206,Ekiti,NTEL,0,4,2025,South West,Internet
+2207,Enugu,MTN,1858652,4,2025,South East,Internet
+2208,Enugu,GLO,315223,4,2025,South East,Internet
+2209,Enugu,AIRTEL,943387,4,2025,South East,Internet
+2210,Enugu,EMTS,5017,4,2025,South East,Internet
+2211,Enugu,IPNX,0,4,2025,South East,Internet
+2212,Enugu,MTN FIXED,203,4,2025,South East,Internet
+2213,Enugu,INQ,0,4,2025,South East,Internet
+2214,Enugu,21ST CENT,0,4,2025,South East,Internet
+2215,Enugu,SMILE,0,4,2025,South East,Internet
+2216,Enugu,NTEL,0,4,2025,South East,Internet
+2217,Fct,MTN,3621081,4,2025,North Central,Internet
+2218,Fct,GLO,735753,4,2025,North Central,Internet
+2219,Fct,AIRTEL,2038840,4,2025,North Central,Internet
+2220,Fct,EMTS,70451,4,2025,North Central,Internet
+2221,Fct,IPNX,0,4,2025,North Central,Internet
+2222,Fct,MTN FIXED,23127,4,2025,North Central,Internet
+2223,Fct,INQ,0,4,2025,North Central,Internet
+2224,Fct,21ST CENT,13,4,2025,North Central,Internet
+2225,Fct,SMILE,19644,4,2025,North Central,Internet
+2226,Fct,NTEL,0,4,2025,North Central,Internet
+2227,Gombe,MTN,1024632,4,2025,North East,Internet
+2228,Gombe,GLO,54519,4,2025,North East,Internet
+2229,Gombe,AIRTEL,843681,4,2025,North East,Internet
+2230,Gombe,EMTS,3291,4,2025,North East,Internet
+2231,Gombe,IPNX,0,4,2025,North East,Internet
+2232,Gombe,MTN FIXED,0,4,2025,North East,Internet
+2233,Gombe,INQ,0,4,2025,North East,Internet
+2234,Gombe,21ST CENT,0,4,2025,North East,Internet
+2235,Gombe,SMILE,0,4,2025,North East,Internet
+2236,Gombe,NTEL,0,4,2025,North East,Internet
+2237,Imo,MTN,2162670,4,2025,South East,Internet
+2238,Imo,GLO,179416,4,2025,South East,Internet
+2239,Imo,AIRTEL,1027498,4,2025,South East,Internet
+2240,Imo,EMTS,9756,4,2025,South East,Internet
+2241,Imo,IPNX,0,4,2025,South East,Internet
+2242,Imo,MTN FIXED,128,4,2025,South East,Internet
+2243,Imo,INQ,0,4,2025,South East,Internet
+2244,Imo,21ST CENT,0,4,2025,South East,Internet
+2245,Imo,SMILE,0,4,2025,South East,Internet
+2246,Imo,NTEL,0,4,2025,South East,Internet
+2247,Jigawa,MTN,1240789,4,2025,North West,Internet
+2248,Jigawa,GLO,74662,4,2025,North West,Internet
+2249,Jigawa,AIRTEL,1036733,4,2025,North West,Internet
+2250,Jigawa,EMTS,1205,4,2025,North West,Internet
+2251,Jigawa,IPNX,0,4,2025,North West,Internet
+2252,Jigawa,MTN FIXED,0,4,2025,North West,Internet
+2253,Jigawa,INQ,0,4,2025,North West,Internet
+2254,Jigawa,21ST CENT,0,4,2025,North West,Internet
+2255,Jigawa,SMILE,0,4,2025,North West,Internet
+2256,Jigawa,NTEL,0,4,2025,North West,Internet
+2257,Kaduna,MTN,3257882,4,2025,North West,Internet
+2258,Kaduna,GLO,446816,4,2025,North West,Internet
+2259,Kaduna,AIRTEL,2689218,4,2025,North West,Internet
+2260,Kaduna,EMTS,36022,4,2025,North West,Internet
+2261,Kaduna,IPNX,0,4,2025,North West,Internet
+2262,Kaduna,MTN FIXED,993,4,2025,North West,Internet
+2263,Kaduna,INQ,0,4,2025,North West,Internet
+2264,Kaduna,21ST CENT,0,4,2025,North West,Internet
+2265,Kaduna,SMILE,61578,4,2025,North West,Internet
+2266,Kaduna,NTEL,0,4,2025,North West,Internet
+2267,Kano,MTN,4963139,4,2025,North West,Internet
+2268,Kano,GLO,498257,4,2025,North West,Internet
+2269,Kano,AIRTEL,3631408,4,2025,North West,Internet
+2270,Kano,EMTS,43135,4,2025,North West,Internet
+2271,Kano,IPNX,0,4,2025,North West,Internet
+2272,Kano,MTN FIXED,254,4,2025,North West,Internet
+2273,Kano,INQ,0,4,2025,North West,Internet
+2274,Kano,21ST CENT,0,4,2025,North West,Internet
+2275,Kano,SMILE,30760,4,2025,North West,Internet
+2276,Kano,NTEL,0,4,2025,North West,Internet
+2277,Katsina,MTN,2202300,4,2025,North West,Internet
+2278,Katsina,GLO,138979,4,2025,North West,Internet
+2279,Katsina,AIRTEL,1627181,4,2025,North West,Internet
+2280,Katsina,EMTS,6473,4,2025,North West,Internet
+2281,Katsina,IPNX,0,4,2025,North West,Internet
+2282,Katsina,MTN FIXED,0,4,2025,North West,Internet
+2283,Katsina,INQ,0,4,2025,North West,Internet
+2284,Katsina,21ST CENT,0,4,2025,North West,Internet
+2285,Katsina,SMILE,0,4,2025,North West,Internet
+2286,Katsina,NTEL,0,4,2025,North West,Internet
+2287,Kebbi,MTN,1322642,4,2025,North West,Internet
+2288,Kebbi,GLO,60334,4,2025,North West,Internet
+2289,Kebbi,AIRTEL,699577,4,2025,North West,Internet
+2290,Kebbi,EMTS,992,4,2025,North West,Internet
+2291,Kebbi,IPNX,0,4,2025,North West,Internet
+2292,Kebbi,MTN FIXED,0,4,2025,North West,Internet
+2293,Kebbi,INQ,0,4,2025,North West,Internet
+2294,Kebbi,21ST CENT,0,4,2025,North West,Internet
+2295,Kebbi,SMILE,0,4,2025,North West,Internet
+2296,Kebbi,NTEL,0,4,2025,North West,Internet
+2297,Kogi,MTN,1281499,4,2025,North Central,Internet
+2298,Kogi,GLO,473820,4,2025,North Central,Internet
+2299,Kogi,AIRTEL,631011,4,2025,North Central,Internet
+2300,Kogi,EMTS,1325,4,2025,North Central,Internet
+2301,Kogi,IPNX,0,4,2025,North Central,Internet
+2302,Kogi,MTN FIXED,0,4,2025,North Central,Internet
+2303,Kogi,INQ,0,4,2025,North Central,Internet
+2304,Kogi,21ST CENT,0,4,2025,North Central,Internet
+2305,Kogi,SMILE,0,4,2025,North Central,Internet
+2306,Kogi,NTEL,0,4,2025,North Central,Internet
+2307,Kwara,MTN,1843549,4,2025,North Central,Internet
+2308,Kwara,GLO,402006,4,2025,North Central,Internet
+2309,Kwara,AIRTEL,925421,4,2025,North Central,Internet
+2310,Kwara,EMTS,11576,4,2025,North Central,Internet
+2311,Kwara,IPNX,0,4,2025,North Central,Internet
+2312,Kwara,MTN FIXED,722,4,2025,North Central,Internet
+2313,Kwara,INQ,0,4,2025,North Central,Internet
+2314,Kwara,21ST CENT,0,4,2025,North Central,Internet
+2315,Kwara,SMILE,0,4,2025,North Central,Internet
+2316,Kwara,NTEL,0,4,2025,North Central,Internet
+2317,Lagos,MTN,8926076,4,2025,South West,Internet
+2318,Lagos,GLO,3212671,4,2025,South West,Internet
+2319,Lagos,AIRTEL,6058777,4,2025,South West,Internet
+2320,Lagos,EMTS,301626,4,2025,South West,Internet
+2321,Lagos,IPNX,25484,4,2025,South West,Internet
+2322,Lagos,MTN FIXED,27741,4,2025,South West,Internet
+2323,Lagos,INQ,0,4,2025,South West,Internet
+2324,Lagos,21ST CENT,162,4,2025,South West,Internet
+2325,Lagos,SMILE,44907,4,2025,South West,Internet
+2326,Lagos,NTEL,0,4,2025,South West,Internet
+2327,Nassarawa,MTN,1608805,4,2025,North Central,Internet
+2328,Nassarawa,GLO,196537,4,2025,North Central,Internet
+2329,Nassarawa,AIRTEL,1204919,4,2025,North Central,Internet
+2330,Nassarawa,EMTS,8191,4,2025,North Central,Internet
+2331,Nassarawa,IPNX,0,4,2025,North Central,Internet
+2332,Nassarawa,MTN FIXED,0,4,2025,North Central,Internet
+2333,Nassarawa,INQ,0,4,2025,North Central,Internet
+2334,Nassarawa,21ST CENT,0,4,2025,North Central,Internet
+2335,Nassarawa,SMILE,0,4,2025,North Central,Internet
+2336,Nassarawa,NTEL,0,4,2025,North Central,Internet
+2337,Niger,MTN,2358861,4,2025,North Central,Internet
+2338,Niger,GLO,392293,4,2025,North Central,Internet
+2339,Niger,AIRTEL,1391897,4,2025,North Central,Internet
+2340,Niger,EMTS,48727,4,2025,North Central,Internet
+2341,Niger,IPNX,0,4,2025,North Central,Internet
+2342,Niger,MTN FIXED,0,4,2025,North Central,Internet
+2343,Niger,INQ,0,4,2025,North Central,Internet
+2344,Niger,21ST CENT,0,4,2025,North Central,Internet
+2345,Niger,SMILE,0,4,2025,North Central,Internet
+2346,Niger,NTEL,0,4,2025,North Central,Internet
+2347,Ogun,MTN,4687080,4,2025,South West,Internet
+2348,Ogun,GLO,926274,4,2025,South West,Internet
+2349,Ogun,AIRTEL,3265865,4,2025,South West,Internet
+2350,Ogun,EMTS,1525,4,2025,South West,Internet
+2351,Ogun,IPNX,0,4,2025,South West,Internet
+2352,Ogun,MTN FIXED,490,4,2025,South West,Internet
+2353,Ogun,INQ,0,4,2025,South West,Internet
+2354,Ogun,21ST CENT,0,4,2025,South West,Internet
+2355,Ogun,SMILE,0,4,2025,South West,Internet
+2356,Ogun,NTEL,0,4,2025,South West,Internet
+2357,Ondo,MTN,1900155,4,2025,South West,Internet
+2358,Ondo,GLO,523870,4,2025,South West,Internet
+2359,Ondo,AIRTEL,694573,4,2025,South West,Internet
+2360,Ondo,EMTS,1753,4,2025,South West,Internet
+2361,Ondo,IPNX,0,4,2025,South West,Internet
+2362,Ondo,MTN FIXED,0,4,2025,South West,Internet
+2363,Ondo,INQ,0,4,2025,South West,Internet
+2364,Ondo,21ST CENT,0,4,2025,South West,Internet
+2365,Ondo,SMILE,0,4,2025,South West,Internet
+2366,Ondo,NTEL,0,4,2025,South West,Internet
+2367,Osun,MTN,2073648,4,2025,South West,Internet
+2368,Osun,GLO,449259,4,2025,South West,Internet
+2369,Osun,AIRTEL,852665,4,2025,South West,Internet
+2370,Osun,EMTS,12008,4,2025,South West,Internet
+2371,Osun,IPNX,0,4,2025,South West,Internet
+2372,Osun,MTN FIXED,0,4,2025,South West,Internet
+2373,Osun,INQ,0,4,2025,South West,Internet
+2374,Osun,21ST CENT,0,4,2025,South West,Internet
+2375,Osun,SMILE,0,4,2025,South West,Internet
+2376,Osun,NTEL,0,4,2025,South West,Internet
+2377,Oyo,MTN,3260928,4,2025,South West,Internet
+2378,Oyo,GLO,1066997,4,2025,South West,Internet
+2379,Oyo,AIRTEL,2223716,4,2025,South West,Internet
+2380,Oyo,EMTS,6884,4,2025,South West,Internet
+2381,Oyo,IPNX,0,4,2025,South West,Internet
+2382,Oyo,MTN FIXED,3622,4,2025,South West,Internet
+2383,Oyo,INQ,0,4,2025,South West,Internet
+2384,Oyo,21ST CENT,0,4,2025,South West,Internet
+2385,Oyo,SMILE,33363,4,2025,South West,Internet
+2386,Oyo,NTEL,0,4,2025,South West,Internet
+2387,Plateau,MTN,1709950,4,2025,North Central,Internet
+2388,Plateau,GLO,154455,4,2025,North Central,Internet
+2389,Plateau,AIRTEL,1099793,4,2025,North Central,Internet
+2390,Plateau,EMTS,36040,4,2025,North Central,Internet
+2391,Plateau,IPNX,0,4,2025,North Central,Internet
+2392,Plateau,MTN FIXED,0,4,2025,North Central,Internet
+2393,Plateau,INQ,0,4,2025,North Central,Internet
+2394,Plateau,21ST CENT,0,4,2025,North Central,Internet
+2395,Plateau,SMILE,0,4,2025,North Central,Internet
+2396,Plateau,NTEL,0,4,2025,North Central,Internet
+2397,Rivers,MTN,3210038,4,2025,South South,Internet
+2398,Rivers,GLO,530037,4,2025,South South,Internet
+2399,Rivers,AIRTEL,1533710,4,2025,South South,Internet
+2400,Rivers,EMTS,6801,4,2025,South South,Internet
+2401,Rivers,IPNX,0,4,2025,South South,Internet
+2402,Rivers,MTN FIXED,7579,4,2025,South South,Internet
+2403,Rivers,INQ,0,4,2025,South South,Internet
+2404,Rivers,21ST CENT,0,4,2025,South South,Internet
+2405,Rivers,SMILE,20269,4,2025,South South,Internet
+2406,Rivers,NTEL,0,4,2025,South South,Internet
+2407,Sokoto,MTN,1313582,4,2025,North West,Internet
+2408,Sokoto,GLO,149948,4,2025,North West,Internet
+2409,Sokoto,AIRTEL,734043,4,2025,North West,Internet
+2410,Sokoto,EMTS,1060,4,2025,North West,Internet
+2411,Sokoto,IPNX,0,4,2025,North West,Internet
+2412,Sokoto,MTN FIXED,0,4,2025,North West,Internet
+2413,Sokoto,INQ,0,4,2025,North West,Internet
+2414,Sokoto,21ST CENT,0,4,2025,North West,Internet
+2415,Sokoto,SMILE,0,4,2025,North West,Internet
+2416,Sokoto,NTEL,0,4,2025,North West,Internet
+2417,Taraba,MTN,1258400,4,2025,North East,Internet
+2418,Taraba,GLO,35385,4,2025,North East,Internet
+2419,Taraba,AIRTEL,1060093,4,2025,North East,Internet
+2420,Taraba,EMTS,601,4,2025,North East,Internet
+2421,Taraba,IPNX,0,4,2025,North East,Internet
+2422,Taraba,MTN FIXED,0,4,2025,North East,Internet
+2423,Taraba,INQ,0,4,2025,North East,Internet
+2424,Taraba,21ST CENT,0,4,2025,North East,Internet
+2425,Taraba,SMILE,0,4,2025,North East,Internet
+2426,Taraba,NTEL,0,4,2025,North East,Internet
+2427,Yobe,MTN,1072490,4,2025,North East,Internet
+2428,Yobe,GLO,24189,4,2025,North East,Internet
+2429,Yobe,AIRTEL,1039958,4,2025,North East,Internet
+2430,Yobe,EMTS,724,4,2025,North East,Internet
+2431,Yobe,IPNX,0,4,2025,North East,Internet
+2432,Yobe,MTN FIXED,0,4,2025,North East,Internet
+2433,Yobe,INQ,0,4,2025,North East,Internet
+2434,Yobe,21ST CENT,0,4,2025,North East,Internet
+2435,Yobe,SMILE,0,4,2025,North East,Internet
+2436,Yobe,NTEL,0,4,2025,North East,Internet
+2437,Zamfara,MTN,943448,4,2025,North West,Internet
+2438,Zamfara,GLO,100278,4,2025,North West,Internet
+2439,Zamfara,AIRTEL,715230,4,2025,North West,Internet
+2440,Zamfara,EMTS,9142,4,2025,North West,Internet
+2441,Zamfara,IPNX,0,4,2025,North West,Internet
+2442,Zamfara,MTN FIXED,0,4,2025,North West,Internet
+2443,Zamfara,INQ,0,4,2025,North West,Internet
+2444,Zamfara,21ST CENT,0,4,2025,North West,Internet
+2445,Zamfara,SMILE,0,4,2025,North West,Internet
+2446,Zamfara,NTEL,0,4,2025,North West,Internet
