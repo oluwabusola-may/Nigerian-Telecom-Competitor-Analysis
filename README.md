@@ -1,16 +1,14 @@
 [README (9).md](https://github.com/user-attachments/files/32795068/README.9.md)
 # Nigerian Telecom Competitor Analysis
 
-**Which operators are winning or losing market share, where, and what subscriber switching behavior reveals about why.**
+**Competitive market-share analysis using SQL window functions and Power BI, applied to 18 months of Nigerian telecom regulator data.**
 
-An end-to-end analysis of real NCC (Nigerian Communications Commission) data, Q2 2024 – Q4 2025: data cleaning in Power Query, 14 business questions answered in MySQL, and a single-page Power BI dashboard.
+I cleaned the data in Power Query, answered 14 business questions in MySQL (CTEs, LAG/LEAD, Herfindahl concentration index), and built a one-page Power BI dashboard showing which operators are gaining or losing share, where, and what subscriber switching (number porting) says about why.
+
+> **Context:** NCC is Nigeria's telecom regulator. MTN, Airtel, Glo and 9mobile are the four main mobile operators. The same approach applies to any market where a regulator publishes subscriber and porting data.
 
 ![Dashboard](images/dashboard.png)
 <img width="847" height="484" alt="Dashboard" src="https://github.com/user-attachments/assets/71161501-f089-4db0-b8ca-ea366060ce62" />
-
-<!-- Add a screenshot of the finished dashboard at images/dashboard.png -->
-
----
 
 ## Business problem
 
@@ -44,7 +42,7 @@ A telecom strategy team needs to know where competitive pressure is building, an
 ## Process
 
 1. **Cleaning (Power Query).** Work was split by table type across a team of four using a shared cleaning spec. Removed TOTAL and OTHERS rows (TOTAL values preserved separately for validation), standardized headers, and mapped all states and FCT to their six geopolitical zones.
-2. **SQL analysis (MySQL).** 14 questions across four themes: competitive positioning, competitive pressure (porting), regional battlegrounds, and validation. Uses CTEs and window functions (`LAG`, `LEAD`, `SUM() OVER`). Full queries in [`/sql`](sql/).
+2. **SQL analysis (MySQL).** 14 questions across four themes: competitive positioning, competitive pressure (porting), regional battlegrounds, and validation. Uses CTEs and window functions (`LAG`, `LEAD`, `SUM() OVER`). Full queries in [`Sql.sql`](Sql.sql); written-up insights and recommendations in [`Telecom sql insights and recommendations.txt`](Telecom%20sql%20insights%20and%20recommendations.txt).
 3. **Dashboard (Power BI).** Single-page dashboard. Because the tables share a composite key (Operator + Year + Quarter), a concatenated `Key` column was added to each table and many-to-many relationships built in Model view.
 
 ## SQL business questions
@@ -81,12 +79,22 @@ A telecom strategy team needs to know where competitive pressure is building, an
 - `Port_Type` values are stored as `PORT IN` / `PORT OUT`; queries filtering on `Port-In` return zero.
 - `CHANGE` is a reserved word in MySQL and cannot be used as a CTE name.
 
+## Repository contents
+
+| File | What it is |
+|---|---|
+| `Sql.sql` | All 14 MySQL queries |
+| `Telecom sql insights and recommendations.txt` | Findings and recommendations from the SQL work |
+| `voice.csv`, `Internet.csv`, `Master-Port.csv` | Cleaned tables loaded into MySQL |
+| `powerbi visxualization.pbix` | Power BI dashboard |
+| `Dashboard.png` | Dashboard screenshot |
+
 ## Tools
 
 MySQL Workbench · Power Query (M) · Power BI (DAX) · Excel
 
 ## Author
 
-**Oluwabusola Oyenuga** — [GitHub](https://github.com/oluwabusola-may)
+**Oluwabusola Oyenuga** — [LinkedIn](https://linkedin.com/in/oluwabusola-oyenuga) · [GitHub](https://github.com/oluwabusola-may)
 
-<!-- Add teammates' names/links here if crediting the team -->
+## Tools
